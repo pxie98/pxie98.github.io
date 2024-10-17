@@ -28,6 +28,14 @@
 </li>
 </ul>
 <ul>
+<li><p>AI for Optimization</p>
+</li>
+</ul>
+<ul>
+<li><p>Approximation theory and neural network approximation</p>
+</li>
+</ul>
+<ul>
 <li><p>Model-based trust-region methods</p>
 </li>
 </ul>
@@ -40,12 +48,26 @@
 </li>
 </ul>
 <ul>
-<li><p>Algorithms on multiple solutions</p>
+<li><p>Numerical methods for multiple solutions of PDE</p>
 </li>
 </ul>
+<h2>RESEARCH SPOTLIGHTS</h2>
+<p><b> </b><b>Solving large-scale (derivative-free) problems with a model-based subspace method</b>*</p>
+<p>We propose the method <b></b>2D-MoSub<b></b> (2-dimensional model-based subspace method), which is a novel subspace method for general unconstrained optimization and especially aims to solve large-scale (DFO) problems. <b></b>2D-MoSub<b></b> combines 2-dimensional quadratic interpolation models and trust-region techniques to iteratively update points and explore 2-dimensional subspace. <b></b>2D-MoSub<b></b>'s framework includes initialization, constructing the interpolation set, building the quadratic interpolation model, performing trust-region trial steps, and updating the trust-region radius and subspace. Experimental results demonstrate the effectiveness and efficiency of <b></b>2D-MoSub<b></b> in solving a variety of optimization problems.</p>
+<p><b> </b><b>Designing better approximation models for optimization methods</b>*</p>
+<p>(1) One particular class of derivative-free optimization algorithms is trust-region algorithms, based on the quadratic models given by under-determined interpolation. Different techniques in updating the quadratic model from iteration to iteration give different interpolation models. We propose a new way to update the quadratic model by minimizing the H^2 norm of the difference between neighboring quadratic models. We propose the projection in the sense of H^2 norm and the interpolation error analysis of our model function. We obtain the coefficients of the quadratic model function by using the KKT conditions. Numerical results show the advantages of our model.</p>
+<p>(2) In addition to (1), different weight coefficients refer to different models, which are important for the algorithm. We propose the barycenter of the weight coefficient region of the least weighted H^2 norm updating quadratic models with vanishing trust-region radius with theoretical analysis and numerical supports.</p>
+<p><b> </b><b>Seeking the most important property of a model for optimization</b>*</p>
+<p>One important class of DFO algorithms is trust-region algorithms based on quadratic models given by under-determined interpolation. We propose a new derivative-free trust-region method by introducing an improved under-determined quadratic interpolation model. Our work gives a theoretical motivation, computational details, the quadratic model's implementation-friendly formula, and related numerical results.</p>
+<p><b> </b><b>How is the model affected by the transformed function values?</b>*</p>
+<p>The least Frobenius norm updating quadratic model is an essential under-determined model for derivative-free trust-region methods. We propose DFO with transformed objectives (DFOTO) and give a model-based method with the least Frobenius norm model. We prove the existence and a necessary and sufficient condition of model optimality-preserving transformations and analyze the model, interpolation error, and convergence property. Numerical results support our model and method.</p>
+<p><b> </b><b>Improving line-search methods by quadratic models</b>*</p>
+<p>The speeding-up and slowing-down (SUSD) direction is a novel direction, which is proved to converge to the gradient descent direction. We propose the algorithm <b></b>SUSD-TR<b></b>, which combines the SUSD direction based on the covariance matrix of interpolation points and the solution of the trust-region subproblem of the quadratic interpolation model at the current iteration step. We give the optimization dynamics and convergence of the algorithm <b></b>SUSD-TR<b></b>. Numerical results show <b></b>SUSD-TR<b></b>'s efficiency.</p>
+<p><b> </b><b>Parametric resonant control of macroscopic behaviors of multiple oscillators</b>*</p>
+<p>Consider a finite collection of oscillators, which a user has limited means to perturb due to physical restrictions. We show that as long as the stiffness parameters of these oscillators can be harmonically perturbed, one can design a single shared perturbation, such that macroscopic trajectory tracking is achieved independently in each oscillator; that is, the oscillation amplitudes of all oscillators will approximate, respectively, an arbitrary collection of target functions. This control mechanism is based on the dynamical phenomenon of parametric resonance, which not only permits both increase and decrease of the oscillation amplitude by design, but also the simultaneous control of multiple oscillators with distinct intrinsic frequencies. A simulated animation of a remotely powered-and-controlled array of circuits illustrates the efficacy of this control. Oscillators that can be controlled by this mechanism are not limited to harmonic ones, but those subject to additional weak damping, noise, and nonlinearity.</p>
 <div id="footer">
 <div id="footer-text">
-Page generated 2024-06-21 10:39:31 BST, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
+Page generated 2024-10-17 09:56:21 PDT, by <a href="http://jemdoc.jaboc.net/">jemdoc</a>.
 </div>
 </div>
 </td>
