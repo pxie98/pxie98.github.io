@@ -1,0 +1,56 @@
+python2 jemdoc.py index.jemdoc 
+
+python2 jemdoc.py courses.jemdoc 
+
+python2 jemdoc.py activities.jemdoc  
+
+python3 jemdoc.py talks.jemdoc
+
+python2 jemdoc.py research.jemdoc
+
+python2 jemdoc.py working.jemdoc 
+
+python2 jemdoc.py publications.jemdoc 
+python3 jemdoc.py publication.jemdoc 
+
+git add .
+
+git commit -m "First Commit"
+
+git push
+
+
+===============================
+
+python3 jemdoc.py index.jemdoc
+python3 jemdoc.py research.jemdoc
+python3 jemdoc.py publication.jemdoc
+python3 jemdoc.py talks.jemdoc
+python3 jemdoc.py mentorship.jemdoc
+python3 jemdoc.py codes.jemdoc
+python3 jemdoc.py blog.jemdoc
+
+===================================
+python3 jemdoc.py index.jemdoc
+python3 jemdoc.py research.jemdoc
+python3 jemdoc.py publication.jemdoc
+python3 jemdoc.py talks.jemdoc
+python3 jemdoc.py mentorship.jemdoc
+python3 jemdoc.py codes.jemdoc
+python3 jemdoc.py blog.jemdoc
+python3 jemdoc.py albrum.jemdoc
+
+====================
+
+<h1></h1>
+
+<a name="Longer List"></a>
+
+
+  <div id="bibbase"></div>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fpxie98.github.io%2Fxpcpublication.bib&jsonp=1&theme=side"></script>
+</td>
+</tr>
+</table>
+</body>
+</html>

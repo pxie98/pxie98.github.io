@@ -1,24 +1,65 @@
-# jemdoc: menu{MENU}{index.html}, nofooter
-==Codes
+# jemdoc: menu{MENU}{index.html}, style{jemdoc.css}
+= Pengcheng Xie
 
 ~~~
-- Download [https://github.com/PengchengXieLSEC/least_H2_norm_updating_model least H^2 norm updating model]
-
-- Download [https://github.com/PengchengXieLSEC/NEWUOA-Trans NEWUOA-Trans]
-
-- Download [https://github.com/PengchengXieLSEC/NEWUOA-Trans-Matlab-Version-1.0 NEWUOA-Trans-Matlab-Version-1.0]
-
-- Download [https://github.com/PengchengXieLSEC/NEWUOA-Trans-Matlab-Version-2.0 NEWUOA-Trans-Matlab-Version-2.0]
+{}{img_left}{xpc_london.JPG}{Pengcheng Xie}{300}{}
+Postdoctoral Scholar, Lawrence Berkeley National Laboratory \& University of California, United States
 
 
+Research interests:
+mathematical optimization, machine learning, numerical analysis, and scientific computing
 
+PhD in Computational Mathematics, Chinese Academy of Sciences
 
-- Download [https://github.com/PengchengXieLSEC/NEWUOA-matlab-V1.0- NEWUOA-Matlab-Version-1.0]
-
-- Download [https://ww2.mathworks.cn/matlabcentral/fileexchange/121418-newuoa-matlab-version-2-0 NEWUOA-Matlab-Version-2.0]
-
-- Download [https://github.com/PengchengXieLSEC/NEWUOA-py NEWUOA-py]
+E-mail: pxie@lbl.gov
 ~~~
 
-The codes above are copyrighted by Pengcheng Xie.
+- [https://amcr.lbl.gov/profile/pxie/ Pengcheng's homepage at the Applied Mathematics and Computational Research Division, Lawrence Berkeley National Laboratory]
+
+- [https://scholar.google.com/citations?hl=en&user=_2ZM_MIAAAAJ&view_op=list_works Google Scholar], [https://orcid.org/0000-0001-5973-1535 ORCID], [https://github.com/pxie98 GitHub 1], [https://github.com/pengchengxielsec GitHub 2], [https://www.researchgate.net/profile/Pengcheng-Xie-3 ResearchGate]
+
+
+
+
+== Biography
+Pengcheng Xie is a postdoctoral scholar at Lawrence Berkeley National Laboratory in the United States, working with [https://wildsm.github.io/ Division Director Stefan M. Wild]. His research focuses on computational mathematics, mathematical optimization, machine learning, and numerical analysis. He earned his PhD from the Chinese Academy of Sciences, where he was advised by [https://lsec.cc.ac.cn/~yyx/ Prof. Ya-xiang Yuan]. 
+Pengcheng has published in leading journals and proceedings including SIAM Journal on Optimization, IMA Journal of Numerical Analysis, Optimization Methods and Software, Journal of Computational and Applied Mathematics, Journal of Computational Mathematics, Journal of the Operations Research Society of China, Chinese Annals of Mathematics, and the American Control Conference. He has also organized or presented at major international conferences such as SIAM MDS 2026, IOS 2026, SIAM CSE 2025, INFORMS 2025, SIAM NCC 2024, ISMP 2024, ICIAM 2023, and CSIAM 2022. 
+His academic honors and recognitions include the SIAM-NCC Early Career Travel Award (2024), the Hua Loo-keng Prize\/Scholarship (2019–2024), the CAS AMSS President Prize\/Scholarship (2023), financial support from ICIAM (2023), and the Gold Award at the China Southeast Mathematical Olympiad. He was also a Meritorious Winner in the Mathematical Contest in Modeling (2017) as a team leader. 
+Beyond his research, Pengcheng has been active in professional service. He is a member of SIAM and MOS (since 2019), organized the minisymposium on Advances in Derivative-Free Optimization for Computational Science and Engineering at SIAM CSE25, and serves as an editor and referee for Applied and Computational Mathematics (2024–2027). He has also reviewed for Mathematical Programming Computation, IMA Journal of Numerical Analysis, Optimization, Journal of the Operations Research Society of China, and several other journals and conferences. He served as President of the CAS SIAM Student Chapter (2021–2022) and is the founding Editor-in-Chief of the Journal of Zhufeng (Fundamental Science), supported by the Ministry of Education of China since 2018. In addition, he has led multiple mathematical modeling and machine learning teams since 2016.
+
+
+
+
+== News
+
+- **May 2026.** Welcomed Abdulaziz AlMuallim from UC Berkeley for undergraduate research on optimization and machine learning.
+
+- **May 2026.** Started serving as a reviewer for [https://mathscinet.ams.org/mathscinet/ Mathematical\ Reviews\/MathSciNet] of the American Mathematical Society.
+
+- **March 2026.** Co-organizing a minisymposium for the [https://www.siam.org/conferences-events/siam-conferences/mds26/ SIAM Conference on Mathematics of Data Science (MDS26)], to be held on November 16--20, 2026, in Salt Lake City, Utah, USA. The tentative minisymposium title is *Advances in Simulation-Based Optimization and Approximation Methods for Data Science*, co-organized with Kwassi Joseph Dzahini (Argonne National Laboratory).
+
+- **Feb. 2026.** Congratulations to my mentee [https://thegreatanna.github.io/ Yitong He] on accepting an offer from Simon Fraser University. 
+
+- **April 2025.** Appointed as Associate Editor for the journal Frontiers in Applied Mathematics and Statistics.
+
+
+
+
+== Contact Information
+
+- **Address**: 1 Cyclotron Road; Bldg 59, 3038B, Berkeley, CA 94720  
+- **Phone**: (510) 693-6765  
+- **E-mail**: pxie@lbl.gov, xpc@lsec.cc.ac.cn, pxie98@gmail.com
+
+
+
+
+
+== What else?
+- Long-distance running ([be2.jpg \[Berkeley Half Marathon\]], [BerkeleyHalfMarathonxpc.jpg \[Berkeley Half Marathon 2\]], [Marathon-1.jpg \[Certificate\]], [Marathon-2.jpg \[Photo of running\]], [Marathon-3.jpg \[Photo of running\]], and once finished 800m in 2'23'' [800m.jpg \[Certificate\]])
+- Swimming [swimming.jpg \[Photo @ the swimming pool of the 1996 Atlanta Olympics at Georgia Tech, Atlanta\]]
+- Climbing mountains [blueoakranch.jpg \[Photo @ Blue Oak Ranch, USA\]] [MountRainier.jpg \[Photo @ Rainier, USA\]], [climbing.jpg \[Photo @ Beijing, China\]], 
+[climbing3.jpg \[Photo @ Xi'an\]], [climbing2.jpg \[Photo @ Chattanooga, USA\]]
+
+
 

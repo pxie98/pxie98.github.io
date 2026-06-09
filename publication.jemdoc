@@ -1,0 +1,120 @@
+# jemdoc: menu{MENU}{publication.html}
+== Publications
+
+Selected publications and preprints are listed below. See the longer BibBase list at the end for additional details.
+
+(*\* denotes corresponding author*)
+
+= Selected Publications
+
+- *P. Xie** and Stefan M. Wild, "ReMU: Regional Minimal Updating for Model-Based Derivative-Free Optimization"  
+2026  
+  /Optimization Methods and Software/, 1--30    
+  [https://doi.org/10.1080/10556788.2026.2660368 \[Link\]]
+
+- *P. Xie** and Ya-xiang Yuan, "A New Derivative-Free Method Using an Improved Underdetermined Quadratic Interpolation Model"  
+ 2025  
+  /SIAM Journal on Optimization/, 35(2): 1110--1133  
+  [https://epubs.siam.org/doi/full/10.1137/23M1582023 \[Link\]]
+
+- *P. Xie** and Ya-xiang Yuan, "Least H^2 Norm Updating of Quadratic Interpolation Models for Derivative-Free Trust-Region Algorithms"  
+ 2026  
+  /IMA Journal of Numerical Analysis/, 46(1): 21--50  
+  [https://doi.org/10.1093/imanum/drae106 \[Link\]]
+
+- *P. Xie**, "Sufficient Conditions for Distance Reduction Between the Minimizers of Nonconvex Quadratic Functions in the Trust Region"  
+ 2025  
+  /Journal of Computational and Applied Mathematics/, 453: 116146  
+  [https://doi.org/10.1016/j.cam.2024.116146 \[Link\]]
+
+- *P. Xie** and Ya-xiang Yuan, "A New Two-Dimensional Model-Based Subspace Method for Large-Scale Unconstrained Derivative-Free Optimization: 2D-MoSub"  
+ 2026  
+  /Optimization Methods and Software/, 41(1): 118--150  
+  [https://doi.org/10.1080/10556788.2025.2601670 \[Link\]]
+
+- *P. Xie** and Ya-xiang Yuan, "Derivative-Free Optimization with Transformed Objective Functions and the Algorithm Based on the Least Frobenius Norm Updating Quadratic Model"  
+ 2025  
+  /Journal of the Operations Research Society of China/, 13: 327--363  
+  [https://link.springer.com/article/10.1007/s40305-023-00532-x \[Link\]]
+
+- Lin Li, Yuheng Zhou, *P. Xie**, and Huiyuan Li, "A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems"  
+ 2025  
+  /Journal of Computational and Applied Mathematics/, 475: 116998  
+  [https://doi.org/10.1016/j.cam.2025.116998 \[Link\]]
+
+- Yangyi Ye, Lin Li, *P. Xie*, and Haijun Yu, "An Improved Adaptive Orthogonal Basis Deflation Method for Multiple Solutions with Applications to Nonlinear Elliptic Equations in Varying Domains"  
+ 2025  
+  /Journal of Computational Mathematics/, 44(3): 794--818  
+  [https://doi.org/10.4208/jcm.2505-m2024-0276 \[Link\]]
+
+- Kwassi J. Dzahini, Stefan M. Wild, and *P. Xie*, "Optimization Approaches for Solving Inverse Problems under Uncertainty"  
+ 2025  
+  /Inverse Methods for Complex Systems under Uncertainty Workshop/, U.S. Department of Energy, Office of Science, Advanced Scientific Computing Research  
+  [https://www.orau.gov/support_files/2025InverseMethods/WildS.pdf \[Link\]]
+
+
+- *P. Xie**, "Ph.D. Thesis: Algorithms and Theory of Derivative-Free Optimization"  
+ 2024  
+  [PXiethesisen.pdf \[Full English Version\]]  
+  [PXiethesis.pdf \[Full Version\]]  
+  [http://dpaper.las.ac.cn/Dpaper/detail/getFile?student_no=202118000206042&type=all&paperID=20238272&papertitle=%E6%97%A0%E5%AF%BC%E6%95%B0%E4%BC%98%E5%8C%96%E7%9A%84%E7%AE%97%E6%B3%95%E4%B8%8E%E7%90%86%E8%AE%BA&token=D00956350B8A6B9F1521274E2ABEFC8E \[Need to access\]]
+
+- *P. Xie** and Ya-xiang Yuan, "A Derivative-Free Optimization Algorithm Combining Line-Search and Trust-Region Techniques"  
+ 2023  
+  /Chinese Annals of Mathematics, Series B/, 44(5): 693--708  
+  [https://link.springer.com/article/10.1007/s11401-023-0040-y \[Link\]]
+
+- *P. Xie**, "The Modeling and Optimization of a Multi-Dam System"  
+ 2024  
+  /Applied and Computational Mathematics/, 13(5): 140--152  
+  [https://www.sciencepublishinggroup.com/article/10.11648/j.acm.20241305.13 \[Link\]]
+
+- *P. Xie** and Molei Tao, "Parametric Resonant Control of Macroscopic Behaviors of Multiple Oscillators"  
+  /2019 American Control Conference (ACC)/, pp. 1898--1905  
+  [https://doi.org/10.23919/ACC.2019.8814709 \[Link\]]
+  
+- *P. Xie**, "A Derivative-Free Trust-Region Method for Optimization on the Ellipsoid"  
+ 2023  
+  /Journal of Physics: Conference Series/, 2620: 012007  
+  [https://doi.org/10.1088/1742-6596/2620/1/012007 \[Link\]]
+
+
+= Selected Preprints
+
+- Wei Hu, *P. Xie**, Ya-xiang Yuan, and Li Zhang, "MATRO: Metric-Aware Fully Quadratic Trust Regions for Derivative-Free Optimization"  
+  2026  
+  [https://arxiv.org/pdf/2605.30845 \[Link\]]
+
+
+- Wei Hu, *P. Xie**, Ya-xiang Yuan, and Li Zhang, "BUP-TR: Bayesian Underdetermined Projection Trust-Region Methods for Derivative-Free Optimization"  
+  2026  
+  [https://arxiv.org/pdf/2605.30841 \[Link\]]
+
+- Wei Hu, *P. Xie**, Ya-xiang Yuan, and Li Zhang, "Distributed Gradient-Regularized Newton Method: Scheduled Consensus and O(\epsilon^{-1}) Global Iteration Complexity"  
+  2026  
+  [https://arxiv.org/pdf/2605.19396 \[Link\]]
+
+- *P. Xie**, "Privacy-Preserving Black-Box Optimization (PBBO): Theory and the Model-Based Algorithm DFOp"  
+ 2025  
+  [https://arxiv.org/abs/2601.11570 \[Link\]]
+
+- Lin Li, *P. Xie**, and Li Zhang, "A Novel Numerical Method Tailored for Unconstrained Optimization Problems"  
+ 2025  
+  [https://arxiv.org/abs/2504.02832 \[Link\]]
+
+- *P. Xie**, Zihao Zhou, and Zijian Zhou, "Objective Value Change and Shape-Based Accelerated Optimization for Neural Network Approximation"  
+ 2025  
+  [https://arxiv.org/abs/2508.20290 \[Link\]]
+
+- Yitong He and *P. Xie**, "Model-Driven Subspaces for Large-Scale Optimization with Local Approximation Strategy"  
+ 2025  
+  [https://arxiv.org/abs/2509.08256 \[Link\]]
+
+= Longer List
+
+~~~
+{}{raw}
+<a name="Longer List"></a>
+<div id="bibbase"></div>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fpxie98.github.io%2Fxpcpublication.bib&jsonp=1&theme=side"></script>
+~~~

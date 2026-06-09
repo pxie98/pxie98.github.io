@@ -1,0 +1,165 @@
+# jemdoc: menu{MENU}{talks.html}
+
+= 2026
+
+- Nov. 2026,  
+  /*"Advances in Simulation-Based Optimization and Approximation Methods for Data Science"*/  
+  SIAM Conference on Mathematics of Data Science (MDS26), Salt Lake City, Utah, USA  
+  (Co-organized minisymposium)
+
+- Nov. 2026,
+  /*"Model-Based Derivative-Free Optimization Method"*/ 
+  The INFORMS Annual Meeting 2026,
+  November 1–4, 2026, San Francisco, CA 
+
+
+- Aug. 2026,  
+  /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
+  Monterey Data Conference, Monterey Marriott, Monterey Bay, California, USA  
+  August 24--27, 2026
+
+
+- June 2026,
+  /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
+  The 41st Colorado Conference on Iterative and Multigrid Methods,
+  Boulder, Colorado, June 26, 2026 
+
+- June 2026,
+  /*"Model-Based Derivative-Free Optimization"*/ 
+  Department of Mathematical Sciences, Tsinghua University,
+  Beijing, China (Online), June 3, 2026
+  (Invited one-hour lecture in the Departmental Academic Seminar Series)  
+  [https://www.math.tsinghua.edu.cn/info/1065/3013.htm \[Link\]]
+  
+- Mar. 2026,  
+  /*"Some New Approximation in Model-Based Derivative-Free Optimization"*/  
+  The 2026 INFORMS Optimization Society (IOS) conference, organized by the H. Milton Stewart School of Industrial and Systems Engineering at Georgia Tech, March 20--22, 2026 at the Ritz-Carlton, Atlanta, GA
+
+- Feb. 2026,  
+  /*"Model-Based Derivative-Free Optimization"*/  
+  CSE Seminar, Harvard University
+
+
+- Feb. 2026,  
+  /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
+  Berkeley Lab CS Area Postdoc Symposium, Berkeley, CA  
+  [https://www.youtube.com/watch?v=4FyXjEaLcHA video]
+
+
+- Jan. 2026,  
+  /*"Model-Based Derivative-Free Optimization"*/  
+  UBC Okanagan CMPS Seminar, Centre for Optimization, Convex Analysis & Nonsmooth Analysis, The University of British Columbia
+
+= 2025
+
+- Oct. 2025,  
+  /*"ReMU: Regional Minimal Updating for Model-Based Derivative-Free Optimization"*/  
+  The 2025 INFORMS Annual Meeting, Atlanta, GA
+
+- Jul. 2025,  
+  /*"ReMU: Regional Minimal Updating for Model-Based Derivative-Free Optimization"*/  
+  The 8th International Conference on Continuous Optimization (ICCOPT 2025), Los Angeles, CA
+
+- Jun. 2025,  
+  /*"A Family of Least-Norm Underdetermined Quadratic Models in DFO"*/  
+  Session on Advances in Derivative-Free and Zeroth-Order Optimization: Part V, EUROPT 2025, Southampton, United Kingdom
+
+- Jun. 2025,  
+  /*"Optimization Approaches for Solving Inverse Problems Must Account for Uncertainty in Both Data and Downstream Decisions"*/  
+  Inverse Methods for Complex Systems under Uncertainty Workshop,  
+  Sponsored by the U.S. Department of Energy, Office of Science, Advanced Scientific Computing Research,  
+  Rockville, MD, June 10--12, 2025
+
+- Jun. 2025,  
+  /*"A New Model-Based Subspace Derivative-Free Optimization Method"*/  
+  Stream on continuous and mixed-integer nonlinear programming: theory and algorithms, EURO 2025 Leeds, Leeds, United Kingdom
+
+- Mar. 2025,  
+  /*"ReMU: Regional Minimal Updating for Model-Based Derivative-Free Optimization"*/  
+  SIAM Conference on Computational Science and Engineering (CSE25), Fort Worth, TX
+
+- Feb. 2025,  
+  /*"Interpolation-Based Trust-Region Methods for Black-Box Optimization"*/  
+  Berkeley Lab CS Area Postdoc Symposium, Berkeley, CA  
+  [https://youtu.be/JZqVh1-cyAI?si=I_4LgqCurG35ptFe video] and [https://crd.lbl.gov/news-and-publications/news/2025/2025-csa-postdoc-symposium-spotlights-innovation-from-early-career-researchers/ news]
+
+= 2024
+
+- Nov. 2024,  
+  /*"AI for Derivative-Free Optimization"*/  
+  Berkeley Math PhD Talks, Berkeley, CA
+
+- Oct. 2024,  
+  /*"Barycenter of the Weight-Coefficient Region of Least-Weighted H^2 Norm Updating Quadratic Models with Vanishing Trust-Region Radius"*/  
+  The 1st SIAM Northern and Central California Sectional Conference (NCC24), Merced, CA
+
+- Jul. 21--26, 2024,  
+  /*"A New Two-Dimensional Model-Based Subspace Method for Large-Scale Unconstrained Derivative-Free Optimization: 2D-MoSub"*/  
+  [https://ismp2024.gerad.ca/ The 25th International Symposium on Mathematical Programming], Montréal, Canada
+
+- Jul. 13, 2024,  
+  /*"A New Two-Dimensional Model-Based Subspace Method for Large-Scale Unconstrained Derivative-Free Optimization: 2D-MoSub"*/  
+  [https://www.maths.ox.ac.uk/node/67293 Computational Mathematics and Applications Seminar], Mathematical Institute, University of Oxford, Oxford, United Kingdom
+
+- Jan. 18, 2024,  
+  /*"A New Two-Dimensional Model-Based Subspace Method for Large-Scale Unconstrained Derivative-Free Optimization: 2D-MoSub"*/  
+  [https://www.lbl.gov/ Lawrence Berkeley National Laboratory], online, [https://crd.lbl.gov/resources/computing-sciences-seminars/ talk link at Computing Sciences Seminars of LBNL]
+
+= 2023
+
+- Dec. 6, 2023,  
+  /*"A New Two-Dimensional Model-Based Subspace Method for Large-Scale Unconstrained Derivative-Free Optimization: 2D-MoSub"*/  
+  [https://www.anl.gov/ Argonne National Laboratory], online, [https://www.anl.gov/event/a-new-twodimensional-modelbased-subspace-method-for-largescale-unconstrained-derivativefree talk link at LANS Seminar]
+
+- Aug. 20--25, 2023, [https://iciam2023.org/registered_data?id=00891 /*"DFO with Transformed Objectives and a Model-Based Trust-Region Method"*/]  
+  Presented in [https://iciam2023.org/ ICIAM 2023] in Tokyo, Japan  
+  ([https://iciam2023.org/accepted_ms Minisymposium of Derivative-Free Optimization Theory, Methods, and Software])  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan])
+
+- Aug. 15--18, 2023, [http://lsec.cc.ac.cn/~icnonla23/program.html /*"A New Model-Based DFO Method Using an Improved Underdetermined Model"*/]  
+  Presented in [http://lsec.cc.ac.cn/~icnonla23/index.html The 14th International Conference on Numerical Optimization and Numerical Linear Algebra] in Taiyuan, China  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan])
+
+- Jun. 1, 2023,  
+  /*"Trust-Region Methods for Derivative-Free Optimization"*/  
+  (This is an invited talk @ [https://english.usc.edu.cn/ University of South China].)
+
+- Feb. 14, 2023,  
+  /*"Comparison of Quadratic Model-Based Methods and Direct Search Methods for Derivative-Free Optimization"*/  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan], and presented in the group seminar @ [http://lsec.cc.ac.cn/ LSEC].)
+
+= 2022
+
+- Nov. 19, 2022, Invited talk in CSIAM Student Forum, [https://meeting.csiam.org.cn/\#/2022/ the 20th Annual Meeting of CSIAM]
+
+- Sept. 20, 2022,  
+  /*"Trust-Region Subproblem Optimality Constraints for Underdetermined Quadratic Models"*/  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan], and presented in the seminar @ [http://lsec.cc.ac.cn/ LSEC].)
+
+- Mar. 22, 2022,  
+  /*"A Derivative-Free Optimization Algorithm Based on Speeding-Up and Slowing-Down Directions and Trust-Region Interpolation"*/  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan], and presented in the group seminar @ [http://lsec.cc.ac.cn/ LSEC].)  
+  Also presented in [https://mp.weixin.qq.com/s/_Us047CZM_jlVBKAl2nVOQ 2021 Mathematics Student Academic Forum in Chinese Academy of Sciences]
+
+= 2021
+
+- Nov. 16, 2021,  
+  /*"Least H^2-Norm Updating Quadratic Models for Derivative-Free Trust-Region Algorithms"*/  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan], and presented in the group seminar @ [http://lsec.cc.ac.cn/ LSEC].  
+  See also [https://www.youtube.com/watch?v=wC_5tr15Lps the video of the plenary talk by Prof. Ya-xiang Yuan] at [https://conference.iisertvm.ac.in/bricsmathconf/index.php the 4th BRICS Mathematics Conference], Dec. 2021.)
+
+- Jul. 26, 2021, hosted [http://lsec.cc.ac.cn/~siamstuc/AN2021/index.html the 10th CAS SIAM Student Chapter Annual Meeting] (see [https://jyj.gmw.cn/2021-06/28/content_34953896.htm news])
+
+- May. 11, 2021,  
+  /*"Derivative-Free Solver NEWUOA-P and Differentially Private Noise-Adding Mechanisms for Private Black-Box Optimization"*/  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan], and presented in the seminar @ [http://lsec.cc.ac.cn/ LSEC].)
+
+- Apr. 17, 2021,  
+  /*"Derivative-Free Optimization Solver for Grey-Box Optimization Problems"*/ [Tsinghua-talk.pdf Link]  
+  (This is an invited talk @ [https://www.tsinghua.edu.cn/en/ Tsinghua University].)
+
+= 2020
+
+- Dec. 08, 2020,  
+  /*"Subspace Methods: Finding the Dimensional Balance Between Approximation of the Optimization Problem and Subproblem Solving"*/ [https://www.researchgate.net/publication/346702177_Subspace_Methods Link]  
+  (This is joint work with [http://lsec.cc.ac.cn/~yyx Prof. Ya-xiang Yuan], and presented in the seminar @ [http://lsec.cc.ac.cn/ LSEC].)
