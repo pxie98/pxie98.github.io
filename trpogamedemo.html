@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Subspace Policy Optimization in Reinforcement Learning</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    text-align: center;
+    margin: 20px;
+}
+
+.section {
+    margin-bottom: 60px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.gif-container {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #fff;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    max-width: 260px;
+    transition: transform 0.2s;
+}
+
+.gif-container:hover {
+    transform: scale(1.05);
+}
+
+.gif-container img {
+    width: 100%;
+    border-radius: 8px;
+}
+
+.caption {
+    margin-top: 8px;
+    font-size: 13px;
+    color: #555;
+}
+
+h1 {
+    margin-bottom: 40px;
+}
+
+h2 {
+    margin-top: 40px;
+    color: #222;
+}
+</style>
+</head>
+
+<body>
+
+<h1>Subspace Policy Optimization in Reinforcement Learning</h1>
+
+<p>
+Source:
+<a href="https://github.com/hong111904-ai/TRPO" target="_blank">
+GitHub Repository
+</a>
+</p>
+
+<div id="all-sections"></div>
+
+<script>
+const baseUrl = "https://raw.githubusercontent.com/hong111904-ai/TRPO/main/";
+
+const ratios = [0.1, 0.25, 0.5, 1];
+const seeds = [0, 1, 2, 3, 4];
+
+const container = document.getElementById("all-sections");
+
+ratios.forEach(ratio => {
+
+    const section = document.createElement("div");
+    section.className = "section";
+
+    const title = document.createElement("h2");
+    title.textContent = `ratio = ${ratio}`;
+
+    const gallery = document.createElement("div");
+    gallery.className = "gallery";
+
+    seeds.forEach(seed => {
+        const file = `ratio_${ratio}_seed_${seed}_epoch_0200.gif`;
+
+        const card = document.createElement("div");
+        card.className = "gif-container";
+
+        const img = document.createElement("img");
+        img.src = baseUrl + file;
+        img.loading = "lazy";   // 🚀 防卡
+        img.alt = file;
+
+        const caption = document.createElement("div");
+        caption.className = "caption";
+        caption.textContent = `seed = ${seed}`;
+
+        card.appendChild(img);
+        card.appendChild(caption);
+        gallery.appendChild(card);
+    });
+
+    section.appendChild(title);
+    section.appendChild(gallery);
+    container.appendChild(section);
+});
+</script>
+
+</body>
+</html>
