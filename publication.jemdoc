@@ -81,6 +81,15 @@ Selected publications and preprints are listed below. See the longer BibBase lis
 
 = Selected Preprints
 
+~~~
+{}{raw}
+<ul>
+<li><p><span style="color:red">Liangcai Huang, Lin Li, and Pengcheng Xie, "Second-order H<sup>1</sup>-norm error analysis for time-fractional advection-dispersion equations based on the fast averaged L1 method"<br />
+2026<br />
+<a href="https://arxiv.org/abs/2606.22083">[Link]</a></span></p></li>
+</ul>
+~~~
+
 - Wei Hu, *P. Xie**, Ya-xiang Yuan, and Li Zhang, "MATRO: Metric-Aware Fully Quadratic Trust Regions for Derivative-Free Optimization"  
   2026  
   [https://arxiv.org/pdf/2605.30845 \[Link\]]
