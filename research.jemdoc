@@ -1,20 +1,58 @@
 # jemdoc: menu{MENU}{research.html}
 == Research
 
-Research interests: mathematical optimization, data science, numerical analysis, scientific computing, machine learning, and control
+Research interests: mathematical optimization, data science, numerical analysis, scientific computing, machine learning, and control, with applications spanning quantum computing, biomedical science, and materials design.
 
-- Derivative-Free Optimization
+[research-highlights.html Research Highlights] — Explore the significance and my contributions behind six papers on derivative-free optimization.
 
-- AI for optimization
+=== Derivative-Free Optimization and Model-Based Trust-Region Methods
 
-- Approximation theory and neural network approximation
+- [https://doi.org/10.1137/23M1582023 A Derivative-Free Method Using a New Underdetermined Quadratic Interpolation Model] — /SIAM Journal on Optimization/, 2025.
+- [https://doi.org/10.1007/s40305-023-00532-x Derivative-Free Optimization with Transformed Objective Functions] — /Journal of the Operations Research Society of China/, 2025.
+- [https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — arXiv preprint, 2026.
+- [https://doi.org/10.1088/1742-6596/2620/1/012007 A Derivative-Free Trust-Region Method for Optimization on Ellipsoids] — /Journal of Physics: Conference Series/, 2023.
+- [https://doi.org/10.1080/10556788.2026.2660368 ReMU: Regional Minimal Updating for Model-Based Derivative-Free Optimization] — /Optimization Methods and Software/, 2026.
+- [https://doi.org/10.1093/imanum/drae106 Least H^2-Norm Updating of Quadratic Interpolation Models] — /IMA Journal of Numerical Analysis/, 2026.
+- [https://arxiv.org/abs/2605.30845 MATRO: Metric-Aware Fully Quadratic Trust Regions for Derivative-Free Optimization] — arXiv preprint, 2026.
+- [https://arxiv.org/abs/2605.30841 BUP-TR: Bayesian Underdetermined Projection Trust-Region Methods] — arXiv preprint, 2026.
+- [https://arxiv.org/abs/2608.18124 TOBYQA: A Trust-Region Method for Derivative-Free Optimization on Time-Varying Functions] — arXiv preprint, 2026.
 
-- Model-based trust-region methods
+=== Optimization for AI
 
-- Subspace methods for large-scale optimization
+- [https://arxiv.org/abs/2609.17759 Derivative-Free Structured Updates for Muon] — arXiv preprint, 2026.
 
-- Parallel computing and optimization
+=== AI for Optimization
 
-- Numerical methods for multiple solutions of PDE
+- [https://arxiv.org/abs/2608.24963 Why and When Neural Networks Improve Local Approximation in Optimization] — arXiv preprint, 2026.
+- [https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — arXiv preprint, 2026.
+- [https://arxiv.org/abs/2508.20290 Objective Value Change and Shape-Based Accelerated Optimization for Neural-Network Approximation] — arXiv preprint, 2025.
 
+=== Approximation Theory and Neural-Network Approximation
 
+- [https://arxiv.org/abs/2608.24963 Why and When Neural Networks Improve Local Approximation in Optimization] — arXiv preprint, 2026.
+- [https://arxiv.org/abs/2508.20290 Objective Value Change and Shape-Based Accelerated Optimization for Neural-Network Approximation] — arXiv preprint, 2025.
+- [https://dl2024.casconf.cn/page/1800418071320596481 A Novel Local Analysis of Objectives Approximated by Neural Networks: L-Change] — conference paper/poster, 2024.
+- [https://arxiv.org/abs/2509.08256 Model-Driven Subspaces for Large-Scale Optimization with a Local Approximation Strategy] — arXiv preprint, 2025.
+
+=== Subspace Methods for Large-Scale Optimization
+
+- [https://doi.org/10.1080/10556788.2025.2601670 2D-MoSub: A Two-Dimensional Model-Based Subspace Method for Large-Scale DFO] — /Optimization Methods and Software/, 2026.
+- [https://arxiv.org/abs/2509.08256 Model-Driven Subspaces for Large-Scale Optimization with a Local Approximation Strategy] — arXiv preprint, 2025.
+
+=== Parallel Computing and Optimization
+
+- [https://arxiv.org/abs/2607.24813 Parallel Model-Based Derivative-Free Optimization via Rank-Two KKT Updates] — arXiv preprint, 2026.
+- [https://arxiv.org/abs/2605.19396 Distributed Gradient-Regularized Newton Method: Scheduled Consensus and Global Complexity] — arXiv preprint, 2026.
+
+=== Numerical Methods for Multiple Solutions of PDEs
+
+- [https://doi.org/10.1016/j.cam.2025.116998 A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems] — /Journal of Computational and Applied Mathematics/, 2025.
+- [https://doi.org/10.4208/jcm.2505-m2024-0276 An Improved Adaptive Orthogonal-Basis Deflation Method for Nonlinear Elliptic Equations] — /Journal of Computational Mathematics/, 2025.
+- [https://arxiv.org/abs/2606.22083 Second-Order H^1-Norm Error Analysis for Time-Fractional Advection-Dispersion Equations] — arXiv preprint, 2026.
+
+=== Applications in Quantum Computing, Biomedical Science, and Scientific Engineering
+
+- Public links for the quantum-computing and biomedical manuscripts will be added when their preprints become available.
+- [https://doi.org/10.23919/ACC.2019.8814709 Parametric Resonant Control of Macroscopic Behaviors of Multiple Oscillators] — /American Control Conference/, 2019.
+- [https://doi.org/10.1109/ICCC54389.2021.9674410 Simulation of Folded-Waveguide Space Traveling-Wave Tubes with Derivative-Free Mixed-Integer NEWUOA] — /ICCC/, 2021.
+- [https://doi.org/10.11648/j.acm.20241305.13 The Modeling and Optimization of a Multi-Dam System] — /Applied and Computational Mathematics/, 2024.

@@ -3,6 +3,8 @@
 
 Selected publications and preprints are listed below. See the longer BibBase list at the end for additional details.
 
+[research-highlights.html Research Highlights] — Read about the significance and my contributions behind six papers on derivative-free optimization.
+
 (*\* denotes corresponding author*)
 
 = Selected Publications
@@ -12,7 +14,7 @@ Selected publications and preprints are listed below. See the longer BibBase lis
   /Optimization Methods and Software/, 1--30    
   [https://doi.org/10.1080/10556788.2026.2660368 \[Link\]]
 
-- *P. Xie** and Ya-xiang Yuan, "A New Derivative-Free Method Using an Improved Underdetermined Quadratic Interpolation Model"  
+- *P. Xie** and Ya-xiang Yuan, "A Derivative-Free Method Using a New Underdetermined Quadratic Interpolation Model"
  2025  
   /SIAM Journal on Optimization/, 35(2): 1110--1133  
   [https://epubs.siam.org/doi/full/10.1137/23M1582023 \[Link\]]
@@ -22,7 +24,7 @@ Selected publications and preprints are listed below. See the longer BibBase lis
   /IMA Journal of Numerical Analysis/, 46(1): 21--50  
   [https://doi.org/10.1093/imanum/drae106 \[Link\]]
 
-- *P. Xie**, "Sufficient Conditions for Distance Reduction Between the Minimizers of Nonconvex Quadratic Functions in the Trust Region"  
+- *P. Xie**, "Sufficient Conditions for Error Distance Reduction in the {{ℓ<sup>2</sup>}}-Norm Trust Region Between Minimizers of Local Nonconvex Multivariate Quadratic Approximates"
  2025  
   /Journal of Computational and Applied Mathematics/, 453: 116146  
   [https://doi.org/10.1016/j.cam.2024.116146 \[Link\]]
@@ -34,7 +36,7 @@ Selected publications and preprints are listed below. See the longer BibBase lis
 
 - *P. Xie** and Ya-xiang Yuan, "Derivative-Free Optimization with Transformed Objective Functions and the Algorithm Based on the Least Frobenius Norm Updating Quadratic Model"  
  2025  
-  /Journal of the Operations Research Society of China/, 13: 327--363  
+  /Journal of the Operations Research Society of China/, 13(2): 327--363
   [https://link.springer.com/article/10.1007/s40305-023-00532-x \[Link\]]
 
 - Lin Li, Yuheng Zhou, *P. Xie**, and Huiyuan Li, "A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems"  
@@ -80,6 +82,31 @@ Selected publications and preprints are listed below. See the longer BibBase lis
 
 
 = Selected Preprints
+
+- *P. Xie*, "Derivative-Free Structured Updates for Muon"  
+  2026  
+  [https://arxiv.org/abs/2609.17759 \[Link\]]  
+  [https://doi.org/10.48550/arXiv.2609.17759 \[DOI\]]
+
+- Yuyang Wang, Haoyu Yao, and *P. Xie**, "MpSub: A Momentum p-Dimensional Subspace Trust-Region Method for Derivative-Free Fine-Tuning of Large Language Models"  
+  2026  
+  [https://arxiv.org/pdf/2609.07666 \[Link\]]  
+  [https://doi.org/10.48550/arXiv.2609.07666 \[DOI\]]
+
+- Chengkuo Bian and *P. Xie**, "Why and When Neural Networks Improve Local Approximation in Optimization"  
+  2026  
+  [https://arxiv.org/pdf/2608.24963 \[Link\]]  
+  [https://doi.org/10.48550/arXiv.2608.24963 \[DOI\]]
+
+- Donghan Wu and *P. Xie**, "Parallel Model-Based Derivative-Free Optimization via Rank-Two KKT Updates"  
+  2026  
+  [https://arxiv.org/abs/2607.24813 \[Link\]]  
+  [https://doi.org/10.48550/arXiv.2607.24813 \[DOI\]]
+
+- Haoyu Yao and *P. Xie**, "TOBYQA: A Trust-Region Method for Derivative-Free Optimization on Time-Varying Functions"  
+  2026  
+  [https://arxiv.org/abs/2608.18124 \[Link\]]  
+  [https://doi.org/10.48550/arXiv.2608.18124 \[DOI\]]
 
 ~~~
 {}{raw}

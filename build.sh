@@ -3,6 +3,7 @@ set -eu
 
 python3 jemdoc.py index.jemdoc
 python3 jemdoc.py research.jemdoc
+python3 jemdoc.py -c research-highlights.conf research-highlights.jemdoc
 python3 jemdoc.py publication.jemdoc
 python3 jemdoc.py talks.jemdoc
 python3 jemdoc.py mentorship.jemdoc

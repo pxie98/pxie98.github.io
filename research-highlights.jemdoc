@@ -1,0 +1,102 @@
+# jemdoc: menu{MENU}{research.html}, addcss{research-highlights.css}, nofooter
+= Research Highlights
+
+~~~
+{}{raw}
+<div class="highlights-intro">
+<p class="byline">Pengcheng Xie · Derivative-free optimization</p>
+<p>Six research highlights in derivative-free optimization, spanning quadratic interpolation, trust-region models, large-scale subspaces, and transformed objectives.</p>
+<div class="page-links"><a href="publication.html">All publications &rarr;</a><a href="research.html">Research areas &rarr;</a></div>
+</div>
+<nav class="highlights-index" aria-labelledby="highlights-index-heading">
+<h2 id="highlights-index-heading">On this page</h2>
+<ol>
+<li><a href="#optimality-aware-models"><span class="index-number">01</span>Optimality-aware models</a></li>
+<li><a href="#remu"><span class="index-number">02</span>ReMU</a></li>
+<li><a href="#least-h2-updating"><span class="index-number">03</span>Least H² updating</a></li>
+<li><a href="#2d-mosub"><span class="index-number">04</span>2D-MoSub</a></li>
+<li><a href="#transformed-objectives"><span class="index-number">05</span>Transformed objectives</a></li>
+<li><a href="#distance-reduction"><span class="index-number">06</span>Distance reduction</a></li>
+</ol>
+</nav>
+<article class="paper-highlight" id="optimality-aware-models" aria-labelledby="optimality-aware-models-title">
+<p class="paper-topic"><span class="paper-number">01</span>Trust-region model construction</p>
+<h2 id="optimality-aware-models-title"><a href="https://doi.org/10.1137/23M1582023">A derivative-free method using a new underdetermined quadratic interpolation model</a></h2>
+<p class="paper-authors"><strong>Pengcheng Xie</strong>, Ya-xiang Yuan</p>
+<p class="paper-citation"><cite>SIAM Journal on Optimization</cite>, 35(2):1110–1133, 2025.</p>
+<div class="paper-links">
+<a class="doi-link" href="https://doi.org/10.1137/23M1582023" aria-label="DOI for Optimality-aware models">DOI: 10.1137/23M1582023</a>
+<a href="https://epubs.siam.org/doi/10.1137/23M1582023" aria-label="Journal article for Optimality-aware models">Journal article &rarr;</a>
+<a href="#optimality-aware-models" aria-label="Permanent section link for Optimality-aware models">Section link</a>
+</div>
+<h3>Significance and My Contribution</h3>
+<p class="paper-contribution">I identified KKT non-uniqueness at trust-region boundary steps under under-determined interpolation and designed an optimality-aware remedy that selectively carries over linear or quadratic models. I derived update formulae and established convergence guarantees. This work provides the first systematic refinement of Conn and Toint’s underdetermined interpolation model through trust-region optimality analysis.</p>
+</article>
+<article class="paper-highlight" id="remu" aria-labelledby="remu-title">
+<p class="paper-topic"><span class="paper-number">02</span>Regional minimal updating</p>
+<h2 id="remu-title"><a href="https://doi.org/10.1080/10556788.2026.2660368">ReMU: Regional minimal updating for model-based derivative-free optimization</a></h2>
+<p class="paper-authors"><strong>Pengcheng Xie</strong>, Stefan M. Wild</p>
+<p class="paper-citation"><cite>Optimization Methods and Software</cite>, pp. 1–30, 2026.</p>
+<p class="paper-status">Published online 26 April 2026.</p>
+<div class="paper-links">
+<a class="doi-link" href="https://doi.org/10.1080/10556788.2026.2660368" aria-label="DOI for ReMU">DOI: 10.1080/10556788.2026.2660368</a>
+<a href="https://www.tandfonline.com/doi/full/10.1080/10556788.2026.2660368" aria-label="Journal article for ReMU">Journal article &rarr;</a>
+<a href="#remu" aria-label="Permanent section link for ReMU">Section link</a>
+</div>
+<h3>Significance and My Contribution</h3>
+<p class="paper-contribution">I proposed the ReMU family, generalising minimal-norm Hessian models; developed a truncated-Newton diagnostic and an online model-switching rule; and led the theoretical analysis of barycentric models. The method enhances robustness and efficiency in model-based optimisation, addressing the challenge of constructing reliable models from limited data for faster convergence.</p>
+</article>
+<article class="paper-highlight" id="least-h2-updating" aria-labelledby="least-h2-updating-title">
+<p class="paper-topic"><span class="paper-number">03</span>Sobolev-based model updating</p>
+<h2 id="least-h2-updating-title"><a href="https://doi.org/10.1093/imanum/drae106">Least H<sup>2</sup> norm updating of quadratic interpolation models for derivative-free trust-region algorithms</a></h2>
+<p class="paper-authors"><strong>Pengcheng Xie</strong>, Ya-xiang Yuan</p>
+<p class="paper-citation"><cite>IMA Journal of Numerical Analysis</cite>, 46(1):21–50, 2026.</p>
+<div class="paper-links">
+<a class="doi-link" href="https://doi.org/10.1093/imanum/drae106" aria-label="DOI for Least H² updating">DOI: 10.1093/imanum/drae106</a>
+<a href="https://academic.oup.com/imajna/article/46/1/21/8046704" aria-label="Journal article for Least H² updating">Journal article &rarr;</a>
+<a href="#least-h2-updating" aria-label="Permanent section link for Least H² updating">Section link</a>
+</div>
+<h3>Significance and My Contribution</h3>
+<p class="paper-contribution">I formulated least-H<sup>2</sup> model updating for derivative-free optimisation inspired by an H<sup>2</sup>-projection, derived model coefficients, and established interpolation-error analysis. The approach regularises under-determined updates and reduces evaluation cost compared with least-Frobenius updates while preserving trust-region reliability. It provides the first Sobolev-based formulation of quadratic interpolation from an average-performance perspective.</p>
+</article>
+<article class="paper-highlight" id="2d-mosub" aria-labelledby="2d-mosub-title">
+<p class="paper-topic"><span class="paper-number">04</span>Large-scale subspace methods</p>
+<h2 id="2d-mosub-title"><a href="https://doi.org/10.1080/10556788.2025.2601670">A new two-dimensional model-based subspace method for large-scale unconstrained derivative-free optimization: 2D-MoSub</a></h2>
+<p class="paper-authors"><strong>Pengcheng Xie</strong>, Ya-xiang Yuan</p>
+<p class="paper-citation"><cite>Optimization Methods and Software</cite>, 41(1):118–150, 2026.</p>
+<div class="paper-links">
+<a class="doi-link" href="https://doi.org/10.1080/10556788.2025.2601670" aria-label="DOI for 2D-MoSub">DOI: 10.1080/10556788.2025.2601670</a>
+<a href="https://www.tandfonline.com/doi/full/10.1080/10556788.2025.2601670" aria-label="Journal article for 2D-MoSub">Journal article &rarr;</a>
+<a href="#2d-mosub" aria-label="Permanent section link for 2D-MoSub">Section link</a>
+</div>
+<h3>Significance and My Contribution</h3>
+<p class="paper-contribution">I proposed 2D-MoSub, combining two-dimensional quadratic interpolation with trust-region steps and adaptive subspace updates. I proved poisedness/model-quality conditions and projection-error bounds leading to convergence guarantees, and demonstrated scalability to very high-dimensional settings, enabling principled randomised/subspace exploration in DFO. This work significantly enhances the scalability of derivative-free optimisation for large-scale problems.</p>
+</article>
+<article class="paper-highlight" id="transformed-objectives" aria-labelledby="transformed-objectives-title">
+<p class="paper-topic"><span class="paper-number">05</span>Optimization with transformed objectives</p>
+<h2 id="transformed-objectives-title"><a href="https://doi.org/10.1007/s40305-023-00532-x">Derivative-free optimization with transformed objective functions and the algorithm based on the least Frobenius norm updating quadratic model</a></h2>
+<p class="paper-authors"><strong>Pengcheng Xie</strong>, Ya-xiang Yuan</p>
+<p class="paper-citation"><cite>Journal of the Operations Research Society of China</cite>, 13(2):327–363, 2025 (spotlight award).</p>
+<div class="paper-links">
+<a class="doi-link" href="https://doi.org/10.1007/s40305-023-00532-x" aria-label="DOI for Transformed objectives">DOI: 10.1007/s40305-023-00532-x</a>
+<a href="https://link.springer.com/article/10.1007/s40305-023-00532-x" aria-label="Journal article for Transformed objectives">Journal article &rarr;</a>
+<a href="#transformed-objectives" aria-label="Permanent section link for Transformed objectives">Section link</a>
+</div>
+<h3>Significance and My Contribution</h3>
+<p class="paper-contribution">I developed a derivative-free optimisation framework for transformed or encrypted objectives, characterised transformation classes that preserve approximate optimality, and analysed model updating and convergence under such transformations. This work extends underdetermined interpolation model-based methods to transformation settings. It provides a new perspective on noisy problems by treating noise as transformations.</p>
+</article>
+<article class="paper-highlight" id="distance-reduction" aria-labelledby="distance-reduction-title">
+<p class="paper-topic"><span class="paper-number">06</span>Quadratic approximation analysis</p>
+<h2 id="distance-reduction-title"><a href="https://doi.org/10.1016/j.cam.2024.116146">Sufficient conditions for error distance reduction in the ℓ<sup>2</sup>-norm trust region between minimizers of local nonconvex multivariate quadratic approximates</a></h2>
+<p class="paper-authors"><strong>Pengcheng Xie</strong></p>
+<p class="paper-citation"><cite>Journal of Computational and Applied Mathematics</cite>, 453:116146, 2025.</p>
+<div class="paper-links">
+<a class="doi-link" href="https://doi.org/10.1016/j.cam.2024.116146" aria-label="DOI for Distance reduction">DOI: 10.1016/j.cam.2024.116146</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0377042724003959" aria-label="Journal article for Distance reduction">Journal article &rarr;</a>
+<a href="#distance-reduction" aria-label="Permanent section link for Distance reduction">Section link</a>
+</div>
+</article>
+<footer class="highlights-footer">
+<div class="page-links"><a href="publication.html">All publications &rarr;</a><a href="research.html">Research areas &rarr;</a><a href="#toptitle">Back to top &uarr;</a></div>
+</footer>
+~~~
