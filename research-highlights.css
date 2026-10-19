@@ -56,7 +56,7 @@ body.research-highlights {
 }
 .research-highlights p { margin: 0 0 14px; line-height: inherit; }
 .highlights-intro { max-width: 72ch; }
-.highlights-intro .byline { color: #5d6c7d; font-size: 14px; }
+.highlights-intro .author-note { color: #5d6c7d; font-size: 14px; }
 .highlights-intro .page-links { margin-top: 18px; }
 .page-links { display: flex; flex-wrap: wrap; gap: 8px 24px; }
 .page-links a { display: inline-flex; align-items: center; min-height: 44px; }
