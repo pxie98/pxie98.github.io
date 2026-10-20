@@ -36,6 +36,7 @@ Research interests: mathematical optimization, data science, numerical analysis,
 
 === Subspace Methods for Large-Scale Optimization
 
+- [https://arxiv.org/abs/2610.24866 Random-subspace Ellipsoidal Trust-region Methods for Derivative-free Optimization] — arXiv preprint, 2026.
 - [https://doi.org/10.1080/10556788.2025.2601670 2D-MoSub: A Two-Dimensional Model-Based Subspace Method for Large-Scale DFO] — /Optimization Methods and Software/, 2026.
 - [https://arxiv.org/abs/2509.08256 Model-Driven Subspaces for Large-Scale Optimization with a Local Approximation Strategy] — arXiv preprint, 2025.
 
