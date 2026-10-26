@@ -39,11 +39,11 @@ Selected publications and preprints are listed below. See the longer BibBase lis
   /Journal of the Operations Research Society of China/, 13(2): 327--363
   [https://link.springer.com/article/10.1007/s40305-023-00532-x \[Link\]]
 
-- Lin Li, Yuheng Zhou, *P. Xie**, and Huiyuan Li, "A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems" — {{<span class="revision-20261025">}}2026{{</span>}}
+- Lin Li, Yuheng Zhou, *P. Xie**, and Huiyuan Li, "A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems" — 2026
   /Journal of Computational and Applied Mathematics/, 475: 116998  
   [https://doi.org/10.1016/j.cam.2025.116998 \[Link\]]
 
-- Yangyi Ye, Lin Li, *P. Xie*, and Haijun Yu, "An Improved Adaptive Orthogonal Basis Deflation Method for Multiple Solutions with Applications to Nonlinear Elliptic Equations in Varying Domains" — {{<span class="revision-20261025">}}2026{{</span>}}
+- Yangyi Ye, Lin Li, *P. Xie*, and Haijun Yu, "An Improved Adaptive Orthogonal Basis Deflation Method for Multiple Solutions with Applications to Nonlinear Elliptic Equations in Varying Domains" — 2026
   /Journal of Computational Mathematics/, 44(3): 794--818  
   [https://doi.org/10.4208/jcm.2505-m2024-0276 \[Link\]]
 
@@ -61,7 +61,7 @@ Selected publications and preprints are listed below. See the longer BibBase lis
 
 - *P. Xie** and Ya-xiang Yuan, "A Derivative-Free Optimization Algorithm Combining Line-Search and Trust-Region Techniques"  
  2023  
-  /Chinese Annals of Mathematics, Series B/, 44(5): {{<span class="revision-20261025">}}719--734{{</span>}}
+  /Chinese Annals of Mathematics, Series B/, 44(5): 719--734
   [https://link.springer.com/article/10.1007/s11401-023-0040-y \[Link\]]
 
 - *P. Xie**, "The Modeling and Optimization of a Multi-Dam System"  
@@ -83,19 +83,19 @@ Selected publications and preprints are listed below. See the longer BibBase lis
 
 ~~~
 {}{raw}
-<ul><li class="revision-20261025"><p>Shengminjie Chen, Xiaoming Sun, <b>P. Xie</b>, Wenguo Yang, Zhicheng Yao, and Zijian Zhou, &ldquo;A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations&rdquo;. Preprint, 2026.<br /><a href="https://doi.org/10.13140/RG.2.2.25730.24003">[DOI / Preprint]</a></p></li></ul>
+<ul><li><p>Shengminjie Chen, Xiaoming Sun, <b>P. Xie</b>, Wenguo Yang, Zhicheng Yao, and Zijian Zhou, &ldquo;A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations&rdquo;. Preprint, 2026.<br /><a href="https://doi.org/10.13140/RG.2.2.25730.24003">[DOI / Preprint]</a></p></li></ul>
 ~~~
 
 
 ~~~
 {}{raw}
-<ul><li class="revision-20261025"><p>Shu Zhang and <b>P. Xie</b>*, &ldquo;Derivative-Free Trust-Region Methods in Local Coordinates on Riemannian Manifolds&rdquo;. Preprint, 2026.<br /><a href="https://doi.org/10.13140/RG.2.2.35796.56960">[DOI / Preprint]</a></p></li></ul>
+<ul><li><p>Shu Zhang and <b>P. Xie</b>*, &ldquo;Derivative-Free Trust-Region Methods in Local Coordinates on Riemannian Manifolds&rdquo;. Preprint, 2026.<br /><a href="https://doi.org/10.13140/RG.2.2.35796.56960">[DOI / Preprint]</a></p></li></ul>
 ~~~
 
 
 ~~~
 {}{raw}
-<ul><li class="revision-20261025"><p>Zhixin Li, <b>P. Xie</b>, and Zijian Zhou, &ldquo;Local Oscillation for Convolutional Neural Networks: A Reconstructed Measure for Image Classification across Three Backbone Families&rdquo;. Preprint, 2026.<br /><a href="https://doi.org/10.13140/RG.2.2.34957.70885">[DOI / Preprint]</a></p></li></ul>
+<ul><li><p>Zhixin Li, <b>P. Xie</b>, and Zijian Zhou, &ldquo;Local Oscillation for Convolutional Neural Networks: A Reconstructed Measure for Image Classification across Three Backbone Families&rdquo;. Preprint, 2026.<br /><a href="https://doi.org/10.13140/RG.2.2.34957.70885">[DOI / Preprint]</a></p></li></ul>
 ~~~
 
 - Yiwen Chen and *P. Xie*, "Random-subspace Ellipsoidal Trust-region Methods for Derivative-free Optimization"
@@ -104,7 +104,7 @@ Selected publications and preprints are listed below. See the longer BibBase lis
   [https://arxiv.org/abs/2610.24866 \[Link\]]
   [https://arxiv.org/pdf/2610.24866 \[PDF\]]
 
-- {{<span class="revision-20261025">}}*P. Xie**, "Derivative-Free Structured Updates for Muon"{{</span>}}
+- *P. Xie**, "Derivative-Free Structured Updates for Muon"
   2026  
   [https://arxiv.org/abs/2609.17759 \[Link\]]  
   [https://doi.org/10.48550/arXiv.2609.17759 \[DOI\]]
@@ -132,14 +132,14 @@ Selected publications and preprints are listed below. See the longer BibBase lis
 ~~~
 {}{raw}
 <ul>
-<li><p><span class="revision-20261025">Liangcai Huang, Lin Li*, and <b>P. Xie</b>*</span>, &ldquo;Second-order H<sup>1</sup>-norm error analysis for time-fractional advection-dispersion equations based on the fast averaged L1 method&rdquo;
+<li><p>Liangcai Huang, Lin Li*, and <b>P. Xie</b>*, &ldquo;Second-order H<sup>1</sup>-norm error analysis for time-fractional advection-dispersion equations based on the fast averaged L1 method&rdquo;
 2026  
 <a href="https://arxiv.org/abs/2606.22083">[Link]</a></p>
 </li>
 </ul>
 ~~~
 
-- {{<span class="revision-20261025">}}Wei Hu\*, *P. Xie*, Ya-xiang Yuan, and Li Zhang, "MATRO: Metric-Aware Trust-Region Optimization with Fully Quadratic Models"{{</span>}}
+- Wei Hu\*, *P. Xie*, Ya-xiang Yuan, and Li Zhang, "MATRO: Metric-Aware Trust-Region Optimization with Fully Quadratic Models"
   2026  
   [https://arxiv.org/pdf/2605.30845 \[Link\]]
 
@@ -148,14 +148,14 @@ Selected publications and preprints are listed below. See the longer BibBase lis
   2026  
   [https://arxiv.org/pdf/2605.30841 \[Link\]]
 
-- {{<span class="revision-20261025">}}Wei Hu\*, *P. Xie*, Ya-xiang Yuan, and Li Zhang, "Distributed Gradient-Regularized Newton Method: Scheduled Consensus and O(ε^{-1}) Global Iteration Complexity"{{</span>}}
+- Wei Hu\*, *P. Xie*, Ya-xiang Yuan, and Li Zhang, "Distributed Gradient-Regularized Newton Method: Scheduled Consensus and O(ε^{-1}) Global Iteration Complexity"
   2026  
   [https://arxiv.org/pdf/2605.19396 \[Link\]]
 
 
 ~~~
 {}{raw}
-<ul><li class="revision-20261025"><p><b>P. Xie</b>* and Jianqing Fan, &ldquo;Privacy-Preserving Zeroth-Order Optimization (PZOO): Theory and the Model-Based Algorithm DFOp&rdquo;. Manuscript, 2026.<br /><a href="https://arxiv.org/abs/2601.11570">[Earlier version: PBBO]</a></p></li></ul>
+<ul><li><p><b>P. Xie</b>* and Jianqing Fan, &ldquo;Privacy-Preserving Zeroth-Order Optimization (PZOO): Theory and the Model-Based Algorithm DFOp&rdquo;. Manuscript, 2026.<br /><a href="https://arxiv.org/abs/2601.11570">[Earlier version: PBBO]</a></p></li></ul>
 ~~~
 
 
@@ -213,34 +213,4 @@ The First Youth Academic Conference of the Operations Research Society of China 
 <a name="Longer List"></a>
 <div id="bibbase"></div>
 <script src="https://bibbase.org/show?bib=https%3A%2F%2Fpxie98.github.io%2Fxpcpublication.bib&jsonp=1&theme=side"></script>
-~~~
-
-~~~
-{}{raw}
-<script>
-(function () {
-  const changedTitles = [
-    'a two-stage variational quantum solver for random-feature pde discretizations',
-    'derivative-free trust-region methods in local coordinates on riemannian manifolds',
-    'local oscillation for convolutional neural networks',
-    'privacy-preserving zeroth-order optimization',
-    'a spectral levenberg',
-    'an improved adaptive orthogonal basis deflation method',
-    'a derivative-free optimization algorithm combining line-search',
-    'matro: metric-aware trust-region optimization'
-  ];
-  const container = document.getElementById('bibbase');
-  if (!container) return;
-  function markRevisions() {
-    container.querySelectorAll('.bibbase_paper').forEach(function (entry) {
-      const text = entry.textContent.toLowerCase();
-      if (changedTitles.some(function (title) { return text.includes(title); })) {
-        entry.classList.add('revision-20261025');
-      }
-    });
-  }
-  new MutationObserver(markRevisions).observe(container, {childList: true, subtree: true});
-  markRevisions();
-}());
-</script>
 ~~~

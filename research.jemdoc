@@ -9,7 +9,7 @@ Research interests: mathematical optimization, data science, numerical analysis,
 
 - [https://doi.org/10.1137/23M1582023 A Derivative-Free Method Using a New Underdetermined Quadratic Interpolation Model] — /SIAM Journal on Optimization/, 2025.
 - [https://doi.org/10.1007/s40305-023-00532-x Derivative-Free Optimization with Transformed Objective Functions] — /Journal of the Operations Research Society of China/, 2025.
-- {{<span class="revision-20261025">}}[https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — manuscript with Jianqing Fan, 2026; linked arXiv record is the earlier PBBO version.{{</span>}}
+- [https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — manuscript with Jianqing Fan, 2026; linked arXiv record is the earlier PBBO version.
 - [https://doi.org/10.1088/1742-6596/2620/1/012007 A Derivative-Free Trust-Region Method for Optimization on Ellipsoids] — /Journal of Physics: Conference Series/, 2023.
 - [https://doi.org/10.1080/10556788.2026.2660368 ReMU: Regional Minimal Updating for Model-Based Derivative-Free Optimization] — /Optimization Methods and Software/, 2026.
 - [https://doi.org/10.1093/imanum/drae106 Least H^2-Norm Updating of Quadratic Interpolation Models] — /IMA Journal of Numerical Analysis/, 2026.
@@ -17,7 +17,7 @@ Research interests: mathematical optimization, data science, numerical analysis,
 - [https://arxiv.org/abs/2605.30841 BUP-TR: Bayesian Underdetermined Projection Trust-Region Methods] — arXiv preprint, 2026.
 - [https://arxiv.org/abs/2608.18124 TOBYQA: A Trust-Region Method for Derivative-Free Optimization on Time-Varying Functions] — arXiv preprint, 2026.
 
-- {{<span class="revision-20261025">}}[https://doi.org/10.13140/RG.2.2.35796.56960 Derivative-Free Trust-Region Methods in Local Coordinates on Riemannian Manifolds] — preprint with Shu Zhang, 2026.{{</span>}}
+- [https://doi.org/10.13140/RG.2.2.35796.56960 Derivative-Free Trust-Region Methods in Local Coordinates on Riemannian Manifolds] — preprint with Shu Zhang, 2026.
 
 === Optimization for AI
 
@@ -26,16 +26,16 @@ Research interests: mathematical optimization, data science, numerical analysis,
 === AI for Optimization
 
 - [https://arxiv.org/abs/2608.24963 Why and When Neural Networks Improve Local Approximation in Optimization] — arXiv preprint, 2026.
-- {{<span class="revision-20261025">}}[https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — manuscript with Jianqing Fan, 2026; linked arXiv record is the earlier PBBO version.{{</span>}}
+- [https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — manuscript with Jianqing Fan, 2026; linked arXiv record is the earlier PBBO version.
 - [https://arxiv.org/abs/2508.20290 Objective Value Change and Shape-Based Accelerated Optimization for Neural-Network Approximation] — arXiv preprint, 2025.
 
-=== {{<span class="revision-20261025">}}LLMs for Optimization{{</span>}}
+=== LLMs for Optimization
 
-{{<span class="revision-20261025">}}I am preparing for release a study of reusable prompts intended to improve optimization algorithms across solver families. A complementary project will benchmark LLM-designed DFO algorithms for both numerical performance and convergence guarantees under explicit assumptions. It will evaluate algorithm descriptions, proof arguments, and executable implementations, testing symbolic reasoning together with numerical judgment. Transferability and performance gains will be assessed through controlled experiments.{{</span>}}
+I am preparing for release a study of reusable prompts intended to improve optimization algorithms across solver families. A complementary project will benchmark LLM-designed DFO algorithms for both numerical performance and convergence guarantees under explicit assumptions. It will evaluate algorithm descriptions, proof arguments, and executable implementations, testing symbolic reasoning together with numerical judgment. Transferability and performance gains will be assessed through controlled experiments.
 
 === Approximation Theory and Neural-Network Approximation
 
-- {{<span class="revision-20261025">}}[https://doi.org/10.13140/RG.2.2.34957.70885 Local Oscillation for Convolutional Neural Networks: A Reconstructed Measure for Image Classification across Three Backbone Families] — preprint with Zhixin Li and Zijian Zhou, 2026.{{</span>}}
+- [https://doi.org/10.13140/RG.2.2.34957.70885 Local Oscillation for Convolutional Neural Networks: A Reconstructed Measure for Image Classification across Three Backbone Families] — preprint with Zhixin Li and Zijian Zhou, 2026.
 
 - [https://arxiv.org/abs/2608.24963 Why and When Neural Networks Improve Local Approximation in Optimization] — arXiv preprint, 2026.
 - [https://arxiv.org/abs/2508.20290 Objective Value Change and Shape-Based Accelerated Optimization for Neural-Network Approximation] — arXiv preprint, 2025.
@@ -55,19 +55,19 @@ Research interests: mathematical optimization, data science, numerical analysis,
 
 === Numerical Methods for Multiple Solutions of PDEs
 
-- [https://doi.org/10.1016/j.cam.2025.116998 A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems] — /Journal of Computational and Applied Mathematics/, {{<span class="revision-20261025">}}2026{{</span>}}.
-- [https://doi.org/10.4208/jcm.2505-m2024-0276 An Improved Adaptive Orthogonal-Basis Deflation Method for Nonlinear Elliptic Equations] — /Journal of Computational Mathematics/, {{<span class="revision-20261025">}}2026{{</span>}}.
+- [https://doi.org/10.1016/j.cam.2025.116998 A Spectral Levenberg-Marquardt-Deflation Method for Multiple Solutions of Semilinear Elliptic Systems] — /Journal of Computational and Applied Mathematics/, 2026.
+- [https://doi.org/10.4208/jcm.2505-m2024-0276 An Improved Adaptive Orthogonal-Basis Deflation Method for Nonlinear Elliptic Equations] — /Journal of Computational Mathematics/, 2026.
 - [https://arxiv.org/abs/2606.22083 Second-Order H^1-Norm Error Analysis for Time-Fractional Advection-Dispersion Equations] — arXiv preprint, 2026.
 
-=== {{<span class="revision-20261025">}}Trust-Region Methods for Saddle-Point Problems{{</span>}}
+=== Trust-Region Methods for Saddle-Point Problems
 
-{{<span class="revision-20261025">}}With Qiang Du at Columbia University, I am developing trust-region saddle-point algorithms with global convergence as a central goal. The local analysis uses local convexity–concavity assumptions, while our current route to global convergence requires globally strong convexity–concavity. A key objective is to weaken these restrictive global curvature assumptions and address more general saddle-point problems.{{</span>}}
+With Qiang Du at Columbia University, I am developing trust-region saddle-point algorithms with global convergence as a central goal. The local analysis uses local convexity–concavity assumptions, while our current route to global convergence requires globally strong convexity–concavity. A key objective is to weaken these restrictive global curvature assumptions and address more general saddle-point problems.
 
 === Applications in Quantum Computing, Biomedical Science, and Scientific Engineering
 
-- {{<span class="revision-20261025">}}[https://doi.org/10.13140/RG.2.2.25730.24003 A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations] — preprint, 2026.{{</span>}}
+- [https://doi.org/10.13140/RG.2.2.25730.24003 A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations] — preprint, 2026.
 
-{{<span class="revision-20261025">}}I am exploring AI-assisted optimization for biological and biomedical problems, including learning stochastic differential equations for biological networks and studying combined virotherapy–chemotherapy models. These projects emphasize model validation, uncertainty, and numerical evidence.{{</span>}}
+I am exploring AI-assisted optimization for biological and biomedical problems, including learning stochastic differential equations for biological networks and studying combined virotherapy–chemotherapy models. These projects emphasize model validation, uncertainty, and numerical evidence.
 - [https://doi.org/10.23919/ACC.2019.8814709 Parametric Resonant Control of Macroscopic Behaviors of Multiple Oscillators] — /American Control Conference/, 2019.
 - [https://doi.org/10.1109/ICCC54389.2021.9674410 Simulation of Folded-Waveguide Space Traveling-Wave Tubes with Derivative-Free Mixed-Integer NEWUOA] — /ICCC/, 2021.
 - [https://doi.org/10.11648/j.acm.20241305.13 The Modeling and Optimization of a Multi-Dam System] — /Applied and Computational Mathematics/, 2024.
