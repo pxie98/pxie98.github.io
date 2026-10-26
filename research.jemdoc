@@ -63,11 +63,14 @@ I am preparing for release a study of reusable prompts intended to improve optim
 
 With Qiang Du at Columbia University, I am developing trust-region saddle-point algorithms with global convergence as a central goal. The local analysis uses local convexity–concavity assumptions, while our current route to global convergence requires globally strong convexity–concavity. A key objective is to weaken these restrictive global curvature assumptions and address more general saddle-point problems.
 
-=== Applications in Quantum Computing, Biomedical Science, and Scientific Engineering
+=== Applications in Quantum Computing and Scientific Engineering
 
 - [https://doi.org/10.13140/RG.2.2.25730.24003 A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations] — preprint, 2026.
 
-I am exploring AI-assisted optimization for biological and biomedical problems, including learning stochastic differential equations for biological networks and studying combined virotherapy–chemotherapy models. These projects emphasize model validation, uncertainty, and numerical evidence.
 - [https://doi.org/10.23919/ACC.2019.8814709 Parametric Resonant Control of Macroscopic Behaviors of Multiple Oscillators] — /American Control Conference/, 2019.
 - [https://doi.org/10.1109/ICCC54389.2021.9674410 Simulation of Folded-Waveguide Space Traveling-Wave Tubes with Derivative-Free Mixed-Integer NEWUOA] — /ICCC/, 2021.
 - [https://doi.org/10.11648/j.acm.20241305.13 The Modeling and Optimization of a Multi-Dam System] — /Applied and Computational Mathematics/, 2024.
+
+=== AI and Mathematical Methods for Biological Modeling
+
+I am also exploring AI and mathematical methods for biological modeling. Current projects include learning stochastic differential equations for biological networks and studying combined virotherapy–chemotherapy models. These projects emphasize model validation, uncertainty, and numerical evidence.
