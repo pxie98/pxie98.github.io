@@ -7,6 +7,8 @@ Research interests: mathematical optimization, data science, numerical analysis,
 
 === Derivative-Free Optimization and Model-Based Trust-Region Methods
 
+- [https://doi.org/10.13140/RG.2.2.27892.92809 Poisedness and local outlier factors in derivative-free trust-region optimization] — preprint with Lucas Cabral, 2026.
+
 - [https://doi.org/10.1137/23M1582023 A Derivative-Free Method Using a New Underdetermined Quadratic Interpolation Model] — /SIAM Journal on Optimization/, 2025.
 - [https://doi.org/10.1007/s40305-023-00532-x Derivative-Free Optimization with Transformed Objective Functions] — /Journal of the Operations Research Society of China/, 2025.
 - [https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — manuscript with Jianqing Fan, 2026; linked arXiv record is the earlier PBBO version.
@@ -67,6 +69,8 @@ I am preparing for release a study of reusable prompts intended to improve optim
 With Qiang Du at Columbia University, I am developing trust-region saddle-point algorithms with global convergence as a central goal. The local analysis uses local convexity–concavity assumptions, while our current route to global convergence requires globally strong convexity–concavity. A key objective is to weaken these restrictive global curvature assumptions and address more general saddle-point problems.
 
 === Applications in Quantum Computing and Scientific Engineering
+
+- [https://doi.org/10.13140/RG.2.2.17826.59846 A block reduction for stationary covariances of linear stochastic second-order systems] — preprint with Lucas Cabral, 2026.
 
 - [https://doi.org/10.13140/RG.2.2.25730.24003 A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations] — preprint, 2026.
 
