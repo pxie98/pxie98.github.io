@@ -1,6 +1,18 @@
 # jemdoc: menu{MENU}{talks.html}
 
+= 2027
+
+- Feb. 22--26, 2027,  
+  /*"A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations"*/  
+  SIAM Conference on Computational Science and Engineering (CSE27), Pittsburgh, Pennsylvania, USA  
+  (Minisymposium: "Quantum Algorithms for Scientific Computing")
+
 = 2026
+
+- Dec. 1, 2026,  
+  /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
+  Louisiana State University (LSU), Baton Rouge, Louisiana, USA  
+  (Scheduled invited seminar; tentative title)
 
 - Nov. 2026,  
   /*"Advances in Simulation-Based Optimization and Approximation Methods for Data Science"*/  
@@ -12,6 +24,11 @@
   The INFORMS Annual Meeting 2026,
   November 1–4, 2026, San Francisco, CA 
 
+
+- Oct. 26--27, 2026,  
+  /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
+  [https://sites.google.com/ucdavis.edu/siamncc26/home 3rd Annual SIAM Northern and Central California Section Conference (NCC26)], University of California, Davis, CA, USA  
+  (Accepted poster; joint work with Stefan M. Wild, Lawrence Berkeley National Laboratory)
 
 - Aug. 2026,  
   /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
@@ -47,7 +64,7 @@
 - Feb. 2026,  
   /*"A New Hybrid Neural-Quadratic Model-Based Derivative-Free Optimization Method"*/  
   Berkeley Lab CS Area Postdoc Symposium, Berkeley, CA  
-  [https://www.youtube.com/watch?v=4FyXjEaLcHA video]
+  [https://youtu.be/4FyXjEaLcHA Watch recording on YouTube]
 
 
 - Jan. 2026,  
