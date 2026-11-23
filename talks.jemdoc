@@ -2,10 +2,22 @@
 
 = 2027
 
-- Feb. 22--26, 2027,  
-  /*"A Two-Stage Variational Quantum Solver for Random-Feature PDE Discretizations"*/  
-  SIAM Conference on Computational Science and Engineering (CSE27), Pittsburgh, Pennsylvania, USA  
-  (Minisymposium: "Quantum Algorithms for Scientific Computing")
+- Feb. 25, 2027, 10:25--10:40 AM,
+  /*"A Two-Stage Variational Quantum Random Feature Method for Ill-Conditioned PDE Least-Squares Problems"*/
+  SIAM Conference on Computational Science and Engineering (CSE27), Pittsburgh, Pennsylvania, USA
+  (Scheduled talk; [https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=91529 MS142: Quantum Algorithms for Scientific Computing: Block-encodings and PDEs -- Part II of II])
+
+- Feb. 25, 2027,
+  /*"Advances in Simulation-Based, Black-Box, and Model-Based Optimization"*/
+  SIAM CSE27, Pittsburgh, Pennsylvania, USA
+  (Co-organized minisymposium with Yiwen Chen, University of British Columbia)
+  [https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=91476 MS193: Part I, 9:45--11:25 AM] | [https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=91477 MS210: Part II, 2:25--4:05 PM]
+
+- Feb. 24, 2027, 9:45--11:25 AM,
+  /*"Modern Optimization Methods based on Approximation and Applications"*/
+  SIAM CSE27, Pittsburgh, Pennsylvania, USA
+  ([https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=91490 MS170]; co-organized with Kwassi Joseph Dzahini, Argonne National Laboratory)
+  Includes our joint work "From Function Approximation to Large Language Models: A Local Oscillation Perspective on Training Dynamics," with Zihao Zhou and Zijian Zhou; presented by Zijian Zhou, 9:45--10:00 AM.
 
 = 2026
 
