@@ -9,4 +9,3 @@ python3 jemdoc.py talks.jemdoc
 python3 jemdoc.py mentorship.jemdoc
 python3 jemdoc.py codes.jemdoc
 python3 jemdoc.py blog.jemdoc
-python3 jemdoc.py album.jemdoc

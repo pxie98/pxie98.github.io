@@ -20,7 +20,6 @@ This regenerates:
 - `mentorship.html`
 - `codes.html`
 - `blog.html`
-- `album.html`
 
 ## Local Preview
 
@@ -42,3 +41,5 @@ http://localhost:8000/
 - The menu label is `Software`, while the generated page remains `codes.html` for link stability.
 - Research Highlights is linked from Research and Publications. Edit `research-highlights.jemdoc` to update its six papers and contribution statements; its scoped styling and mobile layout live in `research-highlights.css` and `research-highlights.conf`.
 - To rebuild only the highlights page, run `python3 jemdoc.py -c research-highlights.conf research-highlights.jemdoc`. Paper section IDs are stable links for sharing individual highlights.
+
+The album is temporarily unpublished. Its source and photos are backed up in a separate private repository. Do not regenerate or restore the album as part of routine site builds.
