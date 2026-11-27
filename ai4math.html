@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI4Math Forecast — Pengcheng Xie</title>
+<meta name="description" content="预测 AI 的下一次数学突破：基于学科图、可验证事件与时间建模的开放研究计划，附可复现的合成数据演示。欢迎一起合作改进。">
+<link rel="icon" href="favicon.ico"><link rel="stylesheet" href="ai4math/style.css">
+</head>
+<body>
+<a class="skip" href="#main">跳转到正文</a>
+<header><a class="brand" href="index.html">Pengcheng Xie <span> / Research</span></a><nav aria-label="Main navigation"><a href="index.html">Home</a><a href="research.html">Research</a><a href="blog.html">Blog</a></nav></header>
+<main id="main">
+<section class="hero">
+<p class="eyebrow">OPEN RESEARCH NOTE · 27 NOVEMBER 2026</p>
+<h1>AI 的下一次<br>数学突破，<em>在哪里？</em></h1>
+<p class="subtitle" lang="en">AI4Math Forecast: graph-based modeling of AI-assisted mathematical progress.</p>
+<p class="lead">从数学子领域的突破记录出发，结合知识结构、时间变化与验证证据，研究未来的突破是否具有可预测性。</p>
+<div class="actions"><a class="button" href="#proposal">阅读研究方案 ↓</a><a href="#demo">探索交互演示 ↗</a><a href="#collaborate">欢迎一起合作改进 ↗</a></div>
+<div class="status"><strong>研究计划 + 可运行基线</strong><span>尚无经回测验证的真实预测；演示中的事件与学科关联均为合成数据。</span></div>
+</section>
+<nav class="contents" aria-label="本文目录"><a href="#proposal">01 / 问题定义</a><a href="#evidence">02 / 文献依据</a><a href="#method">03 / 建模方法</a><a href="#demo">04 / 可复现演示</a><a href="#evaluation">05 / 验证路线</a><a href="#collaborate">06 / 合作</a></nav>
+<section id="proposal">
+<p class="eyebrow">01 / RESEARCH QUESTION</p><h2>把一个直觉变成可证伪的问题</h2>
+<p>初始设想是：把数学的各个小领域作为“插值点”，把 AI 最近解决的问题数量、难度与贡献作为观测值，用动态代理模型推测下一处突破。这里保留这一核心想法，同时对空间、事件和预测目标作严格定义。</p>
+<blockquote>给定时刻 t 之前可获得的证据，能否比“历史活跃领域继续活跃”等简单基线，更准确地预测某子领域在未来 180 天内出现至少一次经验证的 AI 参与开放问题解决事件？</blockquote>
+<p>定义 y<sub>i,t,H</sub> = 1，当且仅当领域 i 在 (t, t+H] 内至少出现一次符合预先登记标准的事件。默认研究窗口 H = 180 天，并在 90、365 天下检验稳健性。这是多个领域各自的二元事件预测：多个领域可以同时发生突破，概率不必加总为 1。若研究“全数学下一次事件属于哪里”，则需另设竞争风险模型，不能混用这两个目标。</p>
+<div class="grid"><article><h3>学科不是欧氏坐标</h3><p>MSC 分类编号是类别标识，不能把编号差当作数学距离。以细粒度 MSC 主题为节点，利用截断时间之前的共分类、引用与可验证的共享方法建立加权图，再比较图核与嵌入模型。</p></article><article><h3>预测与优化分别评估</h3><p>被动观察历史首先得到预测任务。只有能选择研究方向、分配计算或人工验证预算，并获得后续反馈，才形成预算约束的序贯决策问题。DFO 或贝叶斯优化是后续研究路线，不自动赋予预测模型收敛保证。</p></article></div>
+<p lang="en"><strong>English summary.</strong> This project asks whether a time-aware graph of mathematical subfields improves forecasts of independently verified AI-assisted open-problem resolutions. We propose an auditable event registry, leakage-controlled temporal evaluation, and a separate budgeted research-allocation layer. The released baseline uses synthetic data only; no predictive validity or research priority ranking is claimed.</p>
+</section>
+<section id="evidence"><p class="eyebrow">02 / EVIDENCE BEFORE RANKING</p><h2>什么才算一次突破？</h2>
+<p>以下是用于设计标签的代表性原始文献，不是完整历史数据库或截至 2026 年的最新成果榜单。这些案例也没有被转换成演示里的事件数量或难度分数。</p>
+<div class="table-wrap"><table><caption>代表性研究与标注边界</caption><thead><tr><th>研究</th><th>可支持的判断</th><th>数据记录时的边界</th></tr></thead><tbody>
+<tr><td><a href="https://www.nature.com/articles/s41586-021-04086-x">Davies et al., 2021</a></td><td>机器学习辅助数学直觉，在纽结理论与表示论研究中发现结构。</td><td>逐项记录定理、猜想或候选算法；不能将整篇论文视为多个已解决开放问题。</td></tr>
+<tr><td><a href="https://www.nature.com/articles/s41586-022-05172-4">AlphaTensor, 2022</a></td><td>以强化学习发现矩阵乘法算法。</td><td>记录适用维数、数域与成本模型；算法改进不是一般矩阵乘法复杂度问题的解决。</td></tr>
+<tr><td><a href="https://www.nature.com/articles/s41586-023-06924-6">FunSearch, 2023 online / 2024 volume</a></td><td>程序搜索发现 cap set 新构造及在线装箱启发式。</td><td>改进下界与完全解决问题分开；在线公布时间与期刊卷期时间分开。</td></tr>
+<tr><td><a href="https://www.nature.com/articles/s41586-023-06747-5">AlphaGeometry, 2024</a></td><td>展示奥数几何自动推理能力。</td><td>竞赛题表现属于能力指标，不能直接当作研究级开放问题的解决事件。</td></tr>
+</tbody></table></div>
+<h3>先有可审计的事件表，再谈学科得分</h3>
+<p>每条记录需要：稳定的 problem_id 与 event_id、问题陈述、是否在研究开始前公开未解、MSC 多标签、结果类型、首次公开时间、首次独立验证可获得时间、AI 系统与角色、人工参与过程、原始文献和证明链接、验证方式、难度标注依据、审核者及修改历史。同一结果的预印本、期刊版和新闻稿去重；同一问题的后续改进作为有关联的新事件保存。</p>
+<ul><li><strong>严格主终点：</strong>此前公开未解的问题，经独立专家核查或可复现的形式化检查确认解决；形式化验证仍需检查形式化陈述是否对应原问题、假设和公理是否合适。</li><li><strong>分开的辅助终点：</strong>界的改进、算法发现、猜想提出、已知定理的形式化、竞赛表现。它们可提供预测特征，但不混入严格主终点计数。</li><li><strong>待核实 / 有争议 / 撤回：</strong>保存证据与状态变更；未验证事件不计入主终点。没有收录记录不等于没有进展，应标记覆盖范围与缺失程度。</li></ul>
+<p>建议由两位领域标注者独立审核，再记录分歧与裁决。难度使用预先定义的分档与不确定区间，不能仅凭“悬而未决的年数”认定。AI 贡献等级是待检验的测量约定，不是论文事实自带的数值。</p>
+</section>
+<section id="method"><p class="eyebrow">03 / MODEL DESIGN</p><h2>从累计突破，走向时间与结构</h2>
+<h3>1. 保留累计指标，但用窗口增量刻画变化</h3>
+<div class="equation">F<sub>i</sub>(t) = Σ<sub>e: τₑ ≤ t</sub> a<sub>ie</sub> qₑ wₑ dₑ<br>v<sub>i</sub>(t; Δ) = [F<sub>i</sub>(t) − F<sub>i</sub>(t−Δ)] / Δ</div>
+<p>τₑ 是验证证据首次可获得的时间；a<sub>ie</sub> 是跨领域分摊比例（每个事件加总为 1）；qₑ 是是否符合主终点的二元门槛；wₑ 是 AI 贡献权重；dₑ 是难度。保留图片中的 1 / 0.5 / 0.2 作为独立完成 / 合作 / 重要辅助的<strong>演示权重</strong>，未验证事件以 qₑ = 0 排除。真实研究须比较等权、不同贡献权重、难度分档及不使用难度的结果。</p>
+<p>累计得分反映历史，不等于下一次突破概率。窗口速度也受领域规模、投入、发表延迟和报道热度影响。若有可靠的研究投入或活动问题数，可作为暴露量建模；若没有，须明确这些因素不可识别，不能把报道较多误称为更容易突破。</p>
+<h3>2. 一个可复现的图平滑基线</h3>
+<div class="equation">ŝ = arg min<sub>s</sub> ‖s − v‖² + λ sᵀLs = (I + λL)<sup>−1</sup>v， L = D − A</div>
+<p>在对称、非负的学科关联图上，拉普拉斯矩阵 L 为半正定，因此 λ ≥ 0 时解唯一。λ = 0 返回原始速度；增大 λ 使相连领域的得分更接近。它只表达“相邻领域进展可能相关”的假设，图边不是突破传播的因果证据。该基线输出的是平滑活动分数，<strong>不是概率，也没有预测区间</strong>。</p>
+<h3>3. 在数据充分后比较真正的预测模型</h3>
+<p>先建立总体发生率、各领域历史频率、最近窗口速度，以及不使用图结构的正则化逻辑回归基线。再比较离散时间生存模型或计数模型与带图结构的模型。可研究时空核 K((i,t),(j,t′)) = [exp(−βL)]<sub>ij</sub> k<sub>time</sub>(t,t′)，结合二元或计数似然；图扩散核的依据见 <a href="https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf">Kondor &amp; Lafferty (2002)</a>。图关系、嵌入、参数和概率校准都必须仅由训练期信息得到。</p>
+<p>稀有事件可采用跨领域部分汇聚，避免少量事件产生极端估计。事件数量不足时应报告“证据不足”，而不是强行拟合深层图神经网络。代理模型的方差不自动是可靠的预测不确定性；概率校准与区间覆盖率需要独立时间段验证。</p>
+<h3>4. 从预测到研究资源分配</h3>
+<p>若未来能记录每次计算实验或人工核查的成本与结果，可以研究“预期信息增益或验证收益 / 成本”的采集策略，并保留探索预算。此时行动会改变观测分布，应与被动预测分开评估。真实学科空间不是任意可查询的光滑黑箱；现有 DFO 理论能否适用，需要重新检查局部几何、噪声、平稳性与预算假设。</p>
+</section>
+<section id="demo"><p class="eyebrow">04 / REPRODUCIBLE SANDBOX</p><h2>观察窗口与图平滑，怎样改变结果？</h2>
+<p class="notice"><strong>合成数据演示 · 非真实预测</strong><br>所有事件、难度、贡献等级和图边均为人为构造。六个宽领域只为解释方法，正式研究应使用更细的主题。下表不能用于判断哪个领域最值得投入。</p>
+<div class="controls"><label for="window">历史窗口 Δ<select id="window"><option value="90">90 天</option><option value="180" selected>180 天</option><option value="365">365 天</option></select></label><label for="lambda">平滑强度 λ<select id="lambda"><option value="0">0 · 无平滑</option><option value="0.5" selected>0.5 · 中等</option><option value="2">2 · 较强</option></select></label><button id="reset" type="button">重置</button></div>
+<p id="scenario" aria-live="polite"></p>
+<div class="table-wrap"><table><caption>演示活动分数（加权点 / 年，按平滑分数排序）</caption><thead><tr><th>领域</th><th>窗口速度 v</th><th>平滑分数 ŝ</th><th>相对大小</th></tr></thead><tbody id="scores"></tbody></table></div>
+<noscript><p>启用 JavaScript 后可切换演示参数；下方 Python 模型也可以离线复现全部结果。</p></noscript>
+<p>默认权重为 1 / 0.5 / 0.2，窗口为 (t−Δ, t]，以 365 天折算年速度。截断时间固定为 2026-11-27，不会随浏览日期变化。条形长度在每次选择内归一化，跨设置比较请看数值。这里仅计算历史速度与图平滑，没有进行未来窗口训练或回测。</p>
+<details><summary>查看演示图的七条无向边</summary><p>组合—数论；组合—代数；组合—优化；数论—代数；代数—几何与拓扑；代数—数值分析；优化—数值分析。全部边权为 1，未相连的点不代表真实研究上缺乏联系。</p></details>
+<div class="downloads"><a href="ai4math/model.py" download>下载 Python 模型</a><a href="ai4math/synthetic-events.json" download>下载合成事件 JSON</a><a href="ai4math/test_model.py" download>下载验证测试</a><a href="ai4math/demo-data.js" download>下载全部演示输出</a></div>
+<pre><code># 将模型与 JSON 放在同一目录；仅使用 Python 标准库
+python3 model.py
+python3 -m unittest test_model.py</code></pre>
+</section>
+<section id="evaluation"><p class="eyebrow">05 / HOW WE WOULD TEST IT</p><h2>成功标准不是一张好看的排行榜</h2>
+<ol class="steps"><li><h3>登记协议与建立数据集</h3><p>冻结问题定义、标签规则、领域粒度、数据源和验证标准。保存公开日与验证日；建立可追溯、可更正的数据版本。先验证收集流程可重复，再决定是否有足够事件做统计预测。</p></li><li><h3>滚动时间回测</h3><p>在每个历史截断点训练，只使用当时可获得的信息，预测未来 180 天。训练标签的观察窗口必须在截断点前结束；测试末尾未满 180 天的样本作删失或排除。所有图边、特征标准化、参数选择、校准和难度标注均须防止未来信息泄漏。</p></li><li><h3>评价概率与排序</h3><p>概率主指标采用 Brier score、对数损失与可靠性图，和整体发生率基线比较；稀有事件同时报告 PR-AUC、事件率与样本数。Top-k 命中率作为辅助指标，事先固定 k。使用按时间块的重采样或非重叠窗口估计不确定性，不能把重叠预测窗口当作独立样本。</p></li><li><h3>做能推翻假设的消融</h3><p>比较不使用图、置乱图、仅历史频率、不同窗口和贡献权重；单独剔除高报道度实验室、改变标签粒度与验证延迟。若图模型不能稳定优于简单基线，就不能声称数学知识结构提高了可预测性。</p></li><li><h3>前瞻记录后再谈实时系统</h3><p>按固定节奏冻结预测并公开时间戳，等待标签窗口结束再评分。后续可建立自动发现候选文献、人工复核后更新的管道。目前页面没有自动抓取、持续更新或真实概率服务。</p></li></ol>
+<h3>当前完成与待完成</h3>
+<p><strong>已完成：</strong>研究问题与标签协议草案、代表性文献核查、依赖标准库的图平滑实现、合成事件及交互演示。<strong>尚待完成：</strong>真实事件的系统收集与双人审核、历史知识图构建、模型训练、时间回测、概率校准和前瞻验证。当前不对任何数学子领域作真实的“下一个突破”结论。</p>
+</section>
+<section id="collaborate" class="collaborate"><p class="eyebrow">06 / OPEN INVITATION</p><h2>欢迎一起合作改进</h2><p>欢迎数学、机器学习、科学计量与优化领域的研究者参与：补充可核查的突破记录、讨论难度和 AI 贡献标准、改进学科图、设计时序基线，或一起检验这个想法是否真的有预测价值。</p><p lang="en">Collaboration and improvements are warmly welcome. Contributions to evidence curation, mathematical validation, graph modeling, temporal evaluation, and research-allocation methods are especially valuable.</p><a class="button" href="mailto:pxie@lbl.gov?subject=AI4Math%20Forecast%20Collaboration">联系 Pengcheng Xie ↗</a><a href="https://github.com/pxie98/pxie98.github.io">查看网站源码 ↗</a></section>
+<section id="references"><h2>参考文献与资源</h2><ol><li>Davies et al. <a href="https://doi.org/10.1038/s41586-021-04086-x">Advancing mathematics by guiding human intuition with AI.</a> Nature 600, 70–74 (2021).</li><li>Fawzi et al. <a href="https://doi.org/10.1038/s41586-022-05172-4">Discovering faster matrix multiplication algorithms with reinforcement learning.</a> Nature 610, 47–53 (2022).</li><li>Romera-Paredes et al. <a href="https://doi.org/10.1038/s41586-023-06924-6">Mathematical discoveries from program search with large language models.</a> Nature 625, 468–475 (2024); published online 14 December 2023.</li><li>Trinh et al. <a href="https://doi.org/10.1038/s41586-023-06747-5">Solving olympiad geometry without human demonstrations.</a> Nature 625, 476–482 (2024).</li><li>Kondor &amp; Lafferty. <a href="https://www.ml.cmu.edu/research/dap-papers/kondor-diffusion-kernels.pdf">Diffusion Kernels on Graphs and Other Discrete Input Spaces.</a> ICML (2002).</li><li>Mathematical Reviews / zbMATH. <a href="https://mathscinet.ams.org/msc/msc2020.html">Mathematics Subject Classification 2020.</a> 学科分类体系；不是学科之间的距离度量。</li></ol></section>
+</main><footer>Pengcheng Xie · AI4Math Forecast · Research proposal v0.1 · 2026-11-27<br><a href="research.html">← Back to Research</a></footer>
+<script src="ai4math/demo-data.js"></script><script src="ai4math/demo.js"></script>
+</body></html>

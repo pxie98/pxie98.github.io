@@ -1,0 +1,198 @@
+{
+  "synthetic": true,
+  "description": "Entirely invented events, ratings and field assignments; not historical evidence.",
+  "events": [
+    {
+      "id": "SYNTH-0-0",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "0": 1
+      },
+      "verified_available": "2026-11-12",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 1,
+      "ai_role": "independent"
+    },
+    {
+      "id": "SYNTH-0-1",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "0": 1
+      },
+      "verified_available": "2026-10-03",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 2,
+      "ai_role": "collaborative"
+    },
+    {
+      "id": "SYNTH-0-2",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "0": 1
+      },
+      "verified_available": "2026-07-30",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 3,
+      "ai_role": "assistance"
+    },
+    {
+      "id": "SYNTH-0-3",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "0": 1
+      },
+      "verified_available": "2026-02-20",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 1,
+      "ai_role": "independent"
+    },
+    {
+      "id": "SYNTH-1-0",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "1": 1
+      },
+      "verified_available": "2026-09-18",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 2,
+      "ai_role": "collaborative"
+    },
+    {
+      "id": "SYNTH-1-1",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "1": 1
+      },
+      "verified_available": "2026-05-01",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 3,
+      "ai_role": "assistance"
+    },
+    {
+      "id": "SYNTH-2-0",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "2": 1
+      },
+      "verified_available": "2026-10-28",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 3,
+      "ai_role": "assistance"
+    },
+    {
+      "id": "SYNTH-2-1",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "2": 1
+      },
+      "verified_available": "2026-06-20",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 1,
+      "ai_role": "independent"
+    },
+    {
+      "id": "SYNTH-2-2",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "2": 1
+      },
+      "verified_available": "2026-01-31",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 2,
+      "ai_role": "collaborative"
+    },
+    {
+      "id": "SYNTH-3-0",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "3": 1
+      },
+      "verified_available": "2026-04-01",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 1,
+      "ai_role": "independent"
+    },
+    {
+      "id": "SYNTH-4-0",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "4": 1
+      },
+      "verified_available": "2026-11-07",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 2,
+      "ai_role": "collaborative"
+    },
+    {
+      "id": "SYNTH-4-1",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "4": 1
+      },
+      "verified_available": "2026-09-08",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 3,
+      "ai_role": "assistance"
+    },
+    {
+      "id": "SYNTH-4-2",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "4": 1
+      },
+      "verified_available": "2026-06-30",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 1,
+      "ai_role": "independent"
+    },
+    {
+      "id": "SYNTH-4-3",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "4": 1
+      },
+      "verified_available": "2026-04-21",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 2,
+      "ai_role": "collaborative"
+    },
+    {
+      "id": "SYNTH-5-0",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "5": 1
+      },
+      "verified_available": "2026-10-13",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 3,
+      "ai_role": "assistance"
+    },
+    {
+      "id": "SYNTH-5-1",
+      "title": "Fictional event for demonstration only",
+      "fields": {
+        "5": 1
+      },
+      "verified_available": "2026-05-21",
+      "status": "verified",
+      "type": "open_problem_resolution",
+      "difficulty": 1,
+      "ai_role": "independent"
+    }
+  ]
+}

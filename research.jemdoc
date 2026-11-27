@@ -34,6 +34,10 @@ Research interests: mathematical optimization, data science, numerical analysis,
 - [https://arxiv.org/abs/2601.11570 Privacy-Preserving Zeroth-Order Optimization (PZOO)] — manuscript with Jianqing Fan, 2026; linked arXiv record is the earlier PBBO version.
 - [https://arxiv.org/abs/2508.20290 Objective Value Change and Shape-Based Accelerated Optimization for Neural-Network Approximation] — arXiv preprint, 2025.
 
+=== Forecasting AI-Assisted Mathematical Progress
+
+[ai4math.html AI4Math Forecast] develops a research protocol for graph-based, time-aware forecasting of verified AI-assisted mathematical breakthroughs. The project includes an auditable event-labeling plan and a reproducible synthetic-data baseline; real-data curation and predictive validation remain future work. Collaboration and improvements are welcome.
+
 === LLMs for Optimization
 
 I am preparing for release a study of reusable prompts intended to improve optimization algorithms across solver families. A complementary project will benchmark LLM-designed DFO algorithms for both numerical performance and convergence guarantees under explicit assumptions. It will evaluate algorithm descriptions, proof arguments, and executable implementations, testing symbolic reasoning together with numerical judgment. Transferability and performance gains will be assessed through controlled experiments.
