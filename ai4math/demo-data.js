@@ -2,12 +2,12 @@ window.AI4MATH_DEMO = {
   "synthetic": true,
   "cutoff": "2026-11-27",
   "fields": [
-    "组合数学 / Combinatorics",
-    "数论 / Number theory",
-    "代数 / Algebra",
-    "几何与拓扑 / Geometry & topology",
-    "优化 / Optimization",
-    "数值分析 / Numerical analysis"
+    "Combinatorics",
+    "Number theory",
+    "Algebra",
+    "Geometry & topology",
+    "Optimization",
+    "Numerical analysis"
   ],
   "edges": [
     [

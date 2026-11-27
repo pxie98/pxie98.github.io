@@ -5,8 +5,8 @@ import json
 from datetime import date, timedelta
 from pathlib import Path
 
-FIELDS = ['组合数学 / Combinatorics', '数论 / Number theory', '代数 / Algebra',
-          '几何与拓扑 / Geometry & topology', '优化 / Optimization', '数值分析 / Numerical analysis']
+FIELDS = ['Combinatorics', 'Number theory', 'Algebra',
+          'Geometry & topology', 'Optimization', 'Numerical analysis']
 # Hand-specified demonstration graph, NOT an inferred MSC knowledge graph.
 EDGES = [(0, 1), (0, 2), (0, 4), (1, 2), (2, 3), (2, 5), (4, 5)]
 CUTOFF = date(2026, 11, 27)

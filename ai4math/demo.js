@@ -20,7 +20,7 @@
       const fill = document.createElement('span'); fill.style.width = `${100 * result.score[i] / max}%`;
       bar.append(fill); td.append(bar); tr.append(td); tbody.append(tr);
     }
-    document.getElementById('scenario').textContent = `合成数据 · 截断 ${data.cutoff} · 历史窗口 ${windowSelect.value} 天 · λ = ${lambdaSelect.value} · 活动分数，不是概率`;
+    document.getElementById('scenario').textContent = `Synthetic data · Cutoff ${data.cutoff} · Historical window ${windowSelect.value} days · λ = ${lambdaSelect.value} · Activity scores, not probabilities`;
   }
   windowSelect.addEventListener('change', render);
   lambdaSelect.addEventListener('change', render);
